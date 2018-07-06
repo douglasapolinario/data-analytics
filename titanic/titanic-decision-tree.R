@@ -28,4 +28,10 @@ prop.table(table(train$Sex, train$Survived), 2)
 test$Survived <- 0
 test$Survived[test$Sex == 'female'] <- 1
 
+summary(train$Age)
+train$Child <- 0
+train$Child[train$Age < 18] <- 1
 
+aggregate(Survived ~ Child + Sex, data=train, FUN=sum)
+aggregate(Survived ~ Child + Sex, data=train, FUN=length)
+aggregate(Survived ~ Child + Sex, data=train, FUN=function(x) {sum(x)/length(x)})
