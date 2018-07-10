@@ -1,7 +1,7 @@
 # Set working directory and import datafiles
-setwd("~/Documents/MBA/data-analytics/titanic")
+#setwd("~/Documents/MBA/data-analytics/titanic")
 train <- read.csv("~/Documents/MBA/data-analytics/titanic/train.csv")
-View(train)
+#View(train)
 test <- read.csv("~/Documents/MBA/data-analytics/titanic/test.csv")
 
 train$Survived
@@ -31,7 +31,7 @@ test$Survived[test$Sex == 'female'] <- 1
 summary(train$Age)
 train$Child <- 0
 train$Child[train$Age < 18] <- 1
-
+str(train)
 aggregate(Survived ~ Child + Sex, data=train, FUN=sum)
 aggregate(Survived ~ Child + Sex, data=train, FUN=length)
 aggregate(Survived ~ Child + Sex, data=train, FUN=function(x) {sum(x)/length(x)})

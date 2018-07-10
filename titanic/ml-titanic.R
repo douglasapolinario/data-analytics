@@ -6,7 +6,7 @@ library(rattle)
 fit <- rpart(Survived ~ Pclass + Sex + Age + SibSp + Parch + Fare + Embarked, 
              data = train, 
              method = "class",
-             control = rpart.control(minsplit = 4, cp = 0))
+             control = rpart.control(minsplit = 2, cp = 0))
 fancyRpartPlot(fit)
 
 Prediction <- predict(fit, test, type="class")
