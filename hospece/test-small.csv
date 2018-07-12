@@ -1,0 +1,10 @@
+case,unity,year,age,sex,weight,respiratory_arrest,respiratory_insufficiency,myocardial_infarction,low_oxygen_saturation
+1,SANTA RITA,2018,9,male,35.6,no,no,no,no
+2,BUTANTA,2018,60,male,120.5,no,no,yes,yes
+3,DOM BOSCO,2018,37,male,62.2,yes,yes,yes,yes
+4,VILLA LOBOS,2018,3,male,15.0,no,yes,no,yes
+5,PARAISOPOLIS,2018,8,male,21.0,yes,yes,no,yes
+6,VILLA LOBOS,2018,46,male,64.2,no,no,no,no
+7,PENHA,2018,17,male,51.3,no,no,no,yes
+8,PENHA,2018,32,female,54.2,yes,no,yes,yes
+9,VILLA LOBOS,2018,54,male,124.5,no,no,no,yes

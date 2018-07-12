@@ -1,0 +1,1146 @@
+case;unity;year;age;sex;weight;respiratory_arrest;respiratory_insufficiency;myocardial_infarction;low_oxygen_saturation;survived
+1;VILLA LOBOS;2017;2;male;13.0;no;no;no;yes;no
+2;ANA ROSA;2016;56;female;97.2;yes;no;yes;no;no
+3;PENHA;2010;28;male;58.3;yes;yes;yes;no;yes
+4;DOM BOSCO;2013;39;female;64.3;yes;no;no;no;yes
+5;VILLA LOBOS;2010;21;female;88.5;no;yes;no;yes;yes
+6;DOM PEDRO II;2017;21;male;95.0;no;yes;no;yes;yes
+7;ANALIA FRANCO;2017;39;male;97.8;yes;yes;no;yes;yes
+8;SANTA RITA;2017;31;male;60.1;yes;no;yes;yes;no
+9;VILLA LOBOS;2017;20;female;38.9;yes;yes;no;yes;yes
+10;SAO CAMILO;2017;33;male;121.4;no;no;yes;yes;yes
+11;PARAISOPOLIS;2014;55;male;88.6;no;no;no;yes;yes
+12;ANALIA FRANCO;2017;19;male;62.1;yes;no;no;yes;yes
+13;ANA ROSA;2015;14;male;34.6;no;yes;yes;yes;yes
+14;ANA ROSA;2016;29;female;77.6;yes;no;no;yes;yes
+15;BUTANTA;2017;43;male;101.5;no;no;no;yes;no
+16;SANTA RITA;2013;87;female;53.2;yes;yes;yes;no;yes
+17;VILLA LOBOS;2013;30;female;65.3;yes;no;yes;yes;yes
+18;PARAISOPOLIS;2016;14;male;40.7;no;yes;yes;yes;yes
+19;VILLA LOBOS;2015;21;male;96.4;no;yes;yes;no;yes
+20;SANTA RITA;2017;34;male;98.0;yes;no;yes;no;yes
+21;VILLA LOBOS;2010;60;male;87.2;no;no;yes;no;no
+22;ANA ROSA;2017;63;female;90.5;no;no;no;no;no
+23;VILLA LOBOS;2013;49;female;59.6;no;no;no;no;no
+24;PENHA;2010;35;female;69.8;yes;no;no;yes;yes
+25;PENHA;2015;36;male;123.7;no;no;no;no;yes
+26;SANTA RITA;2016;21;female;94.7;yes;yes;no;no;yes
+27;ANA ROSA;2014;38;male;60.2;yes;yes;no;yes;yes
+28;VILLA LOBOS;2014;40;male;117.9;yes;no;no;yes;yes
+29;ANALIA FRANCO;2010;34;female;92.4;no;no;yes;no;yes
+30;DOM PEDRO II;2013;40;male;93.1;no;yes;no;yes;no
+31;ANA ROSA;2016;62;female;119.1;no;no;no;yes;no
+32;PENHA;2015;54;female;63.7;no;no;no;no;no
+33;VILLA LOBOS;2010;56;female;100.8;no;no;no;no;no
+34;PENHA;2016;40;male;61.9;no;no;yes;yes;no
+35;PARAISOPOLIS;2015;94;female;61.8;no;no;yes;yes;yes
+36;ANALIA FRANCO;2010;43;male;83.8;yes;yes;yes;yes;yes
+37;ANA ROSA;2015;48;male;54.5;no;no;no;no;no
+38;PENHA;2010;18;male;39.6;no;yes;no;yes;yes
+39;ANA ROSA;2017;87;female;84.1;no;no;yes;no;yes
+40;VILLA LOBOS;2014;38;female;60.1;yes;no;yes;yes;yes
+41;SANTA RITA;2016;42;male;74.0;yes;yes;yes;no;yes
+42;VILLA LOBOS;2014;78;male;57.3;no;yes;no;no;yes
+43;ANALIA FRANCO;2017;58;male;78.0;yes;no;no;yes;no
+44;BUTANTA;2016;61;female;62.5;no;yes;yes;no;yes
+45;SAO CAMILO;2017;21;female;121.9;yes;no;yes;yes;yes
+46;ANALIA FRANCO;2010;3;female;18.9;no;no;yes;yes;no
+47;DOM BOSCO;2010;78;female;85.0;yes;no;yes;no;yes
+48;VILLA LOBOS;2016;31;female;79.6;yes;yes;yes;no;yes
+49;BUTANTA;2015;50;female;67.2;no;no;yes;yes;no
+50;SANTA RITA;2010;56;male;119.9;yes;yes;no;yes;yes
+51;BUTANTA;2017;84;male;89.5;no;yes;yes;yes;yes
+52;PARAISOPOLIS;2010;84;female;63.9;no;no;no;yes;no
+53;SAO CAMILO;2017;66;female;84.1;no;no;no;no;yes
+54;PENHA;2015;64;male;58.5;no;yes;yes;yes;yes
+55;ANA ROSA;2013;48;female;103.6;no;no;no;yes;no
+56;PENHA;2017;10;male;29.1;yes;yes;yes;yes;yes
+57;VILLA LOBOS;2017;41;male;81.2;no;no;no;yes;no
+58;VILLA LOBOS;2016;41;female;69.8;no;no;yes;no;no
+59;SAO CAMILO;2015;22;male;89.9;no;no;yes;yes;no
+60;SANTA RITA;2016;32;female;100.7;yes;no;yes;no;no
+61;PARAISOPOLIS;2017;44;female;93.9;no;no;no;yes;no
+62;SAO CAMILO;2010;8;female;30.3;no;no;yes;yes;no
+63;VILLA LOBOS;2010;58;female;104.1;yes;yes;no;yes;no
+64;BUTANTA;2016;72;male;98.2;no;no;no;no;no
+65;ANA ROSA;2010;54;male;65.4;no;yes;yes;no;no
+66;ANALIA FRANCO;2010;15;male;44.4;no;yes;yes;yes;yes
+67;VILLA LOBOS;2016;48;male;127.7;yes;yes;yes;no;yes
+68;SANTA RITA;2016;57;male;89.4;yes;no;yes;yes;yes
+69;DOM BOSCO;2015;35;male;122.9;yes;yes;no;no;yes
+70;ANALIA FRANCO;2017;69;female;61.3;yes;no;no;yes;yes
+71;VILLA LOBOS;2013;36;female;64.6;no;no;no;no;no
+72;BUTANTA;2013;8;female;27.0;yes;yes;yes;no;yes
+73;VILLA LOBOS;2014;26;male;133.2;no;no;yes;no;no
+74;ANALIA FRANCO;2013;39;male;67.9;no;no;no;yes;no
+75;ANA ROSA;2017;42;male;61.3;no;no;yes;no;no
+76;VILLA LOBOS;2016;83;male;87.1;no;no;no;no;no
+77;ANA ROSA;2016;13;female;41.8;yes;yes;yes;yes;yes
+78;BUTANTA;2010;40;female;60.5;no;yes;yes;yes;yes
+79;DOM PEDRO II;2017;0;female;4.5;yes;yes;no;yes;yes
+80;VILLA LOBOS;2015;90;male;61.9;yes;no;no;no;yes
+81;SANTA RITA;2016;86;female;94.4;no;no;no;yes;yes
+82;VILLA LOBOS;2014;40;female;90.3;no;no;no;yes;yes
+83;ANALIA FRANCO;2015;13;female;40.3;yes;yes;no;yes;yes
+84;BUTANTA;2016;50;male;67.7;no;no;yes;yes;yes
+85;BUTANTA;2010;70;male;98.0;yes;yes;yes;no;yes
+86;SANTA RITA;2010;10;male;32.7;no;no;no;yes;no
+87;BUTANTA;2017;53;male;101.7;no;yes;yes;yes;yes
+88;DOM PEDRO II;2010;71;male;60.1;yes;no;no;no;yes
+89;BUTANTA;2017;15;female;45.3;no;no;yes;no;no
+90;PARAISOPOLIS;2017;63;male;63.9;no;no;no;yes;yes
+91;SANTA RITA;2014;41;male;76.3;no;yes;yes;yes;yes
+92;BUTANTA;2010;43;female;92.7;no;no;no;yes;no
+93;ANA ROSA;2014;27;male;98.1;no;yes;yes;no;no
+94;VILLA LOBOS;2016;20;female;71.3;no;no;no;no;no
+95;SANTA RITA;2016;60;female;91.2;no;no;yes;yes;yes
+96;VILLA LOBOS;2016;43;female;64.4;no;no;no;no;no
+97;BUTANTA;2016;7;male;26.1;yes;no;yes;yes;yes
+98;VILLA LOBOS;2015;35;female;105.7;yes;yes;no;yes;yes
+99;ANA ROSA;2016;68;female;101.6;no;no;yes;no;yes
+100;BUTANTA;2016;55;male;65.4;yes;no;yes;yes;yes
+101;VILLA LOBOS;2013;0;male;5.0;no;yes;no;yes;no
+102;DOM BOSCO;2010;43;female;77.1;yes;yes;yes;yes;yes
+103;SANTA RITA;2017;51;male;62.2;yes;no;no;no;no
+104;BUTANTA;2010;18;male;56.2;no;no;yes;yes;yes
+105;ANALIA FRANCO;2016;17;female;57.1;no;no;no;no;no
+106;SANTA RITA;2010;29;male;96.4;yes;yes;no;yes;yes
+107;BUTANTA;2013;81;male;63.9;no;no;no;no;no
+108;PENHA;2016;17;male;59.9;yes;no;no;yes;yes
+109;VILLA LOBOS;2013;27;male;93.5;yes;yes;yes;yes;yes
+110;ANALIA FRANCO;2017;54;female;66.5;no;yes;yes;yes;yes
+111;SAO CAMILO;2016;25;female;80.2;yes;yes;no;no;yes
+112;DOM PEDRO II;2017;10;male;35.6;no;yes;no;no;no
+113;SAO CAMILO;2013;13;female;35.3;yes;yes;yes;yes;yes
+114;SANTA RITA;2010;70;male;52.2;no;no;no;yes;no
+115;ANA ROSA;2016;15;female;42.0;yes;yes;yes;yes;yes
+116;SANTA RITA;2017;11;female;40.8;yes;yes;no;yes;no
+117;BUTANTA;2013;37;male;85.7;yes;yes;no;no;yes
+118;ANA ROSA;2016;31;male;54.2;no;yes;no;yes;yes
+119;ANALIA FRANCO;2016;72;female;84.7;no;no;no;no;no
+120;VILLA LOBOS;2015;9;female;33.7;no;no;no;no;no
+121;BUTANTA;2010;24;male;131.1;no;no;yes;yes;yes
+122;BUTANTA;2017;49;female;95.1;yes;no;yes;yes;yes
+123;VILLA LOBOS;2010;55;female;52.7;yes;yes;yes;yes;yes
+124;ANALIA FRANCO;2017;51;male;82.2;no;no;no;yes;no
+125;SAO CAMILO;2010;48;male;99.7;yes;no;yes;no;yes
+126;BUTANTA;2015;48;male;75.8;no;no;no;yes;no
+127;BUTANTA;2010;54;male;88.2;no;no;no;yes;no
+128;VILLA LOBOS;2017;12;male;43.7;no;no;no;yes;no
+129;ANA ROSA;2013;5;female;21.5;yes;no;yes;yes;yes
+130;SAO CAMILO;2010;36;male;129.6;yes;yes;yes;no;yes
+131;PARAISOPOLIS;2015;42;female;86.3;no;no;no;no;no
+132;SANTA RITA;2013;2;male;14.3;no;yes;no;yes;yes
+133;BUTANTA;2014;13;female;45.0;yes;yes;yes;yes;yes
+134;SANTA RITA;2016;59;male;90.3;no;no;yes;yes;no
+135;SAO CAMILO;2014;35;female;57.8;yes;yes;yes;yes;yes
+136;PARAISOPOLIS;2015;0;male;5.0;yes;no;yes;yes;yes
+137;PARAISOPOLIS;2010;83;female;101.7;no;no;no;no;no
+138;DOM BOSCO;2013;34;female;65.4;no;no;no;yes;yes
+139;SANTA RITA;2016;37;male;56.3;yes;yes;yes;yes;yes
+140;PARAISOPOLIS;2014;69;male;88.3;no;no;no;yes;no
+141;BUTANTA;2015;25;male;104.7;yes;yes;yes;yes;yes
+142;DOM BOSCO;2017;78;male;88.4;no;no;yes;no;yes
+143;VILLA LOBOS;2017;33;male;108.5;no;no;no;yes;no
+144;BUTANTA;2016;43;male;95.6;no;yes;no;yes;no
+145;ANALIA FRANCO;2015;41;male;69.9;no;no;yes;no;no
+146;DOM PEDRO II;2016;35;male;89.7;yes;yes;no;yes;yes
+147;ANALIA FRANCO;2014;52;female;53.6;yes;yes;yes;yes;yes
+148;SAO CAMILO;2015;9;female;35.7;yes;yes;yes;yes;yes
+149;ANALIA FRANCO;2017;3;male;14.0;yes;yes;yes;yes;yes
+150;PENHA;2016;72;male;101.5;no;no;no;yes;no
+151;ANALIA FRANCO;2016;78;male;121.3;no;no;no;no;no
+152;BUTANTA;2017;33;male;86.6;yes;no;yes;yes;yes
+153;PARAISOPOLIS;2017;22;male;107.9;yes;yes;no;no;yes
+154;BUTANTA;2014;47;female;64.0;no;no;no;yes;no
+155;BUTANTA;2016;50;female;84.9;no;no;no;no;no
+156;ANALIA FRANCO;2017;48;male;60.3;yes;yes;no;yes;yes
+157;SAO CAMILO;2016;58;male;64.4;yes;no;no;yes;no
+158;SANTA RITA;2010;49;male;100.2;no;no;yes;yes;no
+159;BUTANTA;2017;30;female;91.6;no;no;no;no;no
+160;SANTA RITA;2010;51;female;85.2;no;no;yes;no;no
+161;BUTANTA;2016;32;female;91.6;yes;yes;yes;yes;yes
+162;VILLA LOBOS;2017;20;female;43.1;no;no;yes;yes;yes
+163;VILLA LOBOS;2014;53;male;85.8;no;no;yes;no;no
+164;VILLA LOBOS;2017;59;male;108.6;yes;yes;yes;no;yes
+165;BUTANTA;2013;52;female;74.6;no;yes;yes;no;no
+166;SAO CAMILO;2013;85;male;97.4;no;no;no;no;no
+167;VILLA LOBOS;2016;76;male;96.2;no;no;yes;no;no
+168;SAO CAMILO;2010;3;male;14.4;yes;no;yes;yes;yes
+169;DOM PEDRO II;2010;79;male;97.9;no;no;no;yes;no
+170;BUTANTA;2010;29;female;80.7;yes;no;yes;yes;yes
+171;VILLA LOBOS;2016;32;male;103.3;no;yes;yes;yes;yes
+172;VILLA LOBOS;2016;36;female;95.5;yes;yes;no;yes;yes
+173;SAO CAMILO;2010;56;female;91.3;yes;no;no;yes;yes
+174;SAO CAMILO;2016;0;male;3.7;yes;yes;yes;yes;yes
+175;ANALIA FRANCO;2013;75;male;95.1;no;no;no;yes;no
+176;BUTANTA;2016;67;female;105.9;no;no;no;no;yes
+177;SAO CAMILO;2016;54;male;94.4;yes;no;no;yes;yes
+178;PENHA;2013;79;male;89.7;no;yes;no;yes;yes
+179;BUTANTA;2015;25;male;103.5;no;no;no;yes;yes
+180;DOM PEDRO II;2010;36;female;61.8;no;no;yes;yes;no
+181;DOM BOSCO;2016;77;male;63.1;no;no;no;no;no
+182;BUTANTA;2015;40;male;88.6;no;yes;no;yes;yes
+183;PENHA;2010;15;male;45.2;yes;no;yes;yes;yes
+184;VILLA LOBOS;2014;1;female;10.5;no;yes;no;yes;yes
+185;VILLA LOBOS;2013;9;female;30.2;no;no;no;yes;no
+186;SANTA RITA;2017;48;male;93.5;no;no;no;no;no
+187;PARAISOPOLIS;2010;6;female;23.5;yes;yes;yes;yes;yes
+188;SANTA RITA;2015;67;male;87.8;yes;no;no;no;yes
+189;PARAISOPOLIS;2014;14;female;35.6;no;no;yes;no;no
+190;DOM BOSCO;2010;71;female;121.0;no;no;no;yes;no
+191;VILLA LOBOS;2017;57;female;56.8;no;yes;yes;yes;yes
+192;DOM PEDRO II;2017;41;male;58.4;yes;yes;yes;no;yes
+193;VILLA LOBOS;2016;46;male;87.9;no;no;no;no;no
+194;VILLA LOBOS;2016;49;female;55.2;no;yes;yes;yes;yes
+195;VILLA LOBOS;2015;8;female;20.3;yes;yes;no;no;no
+196;VILLA LOBOS;2016;37;male;87.7;yes;yes;no;yes;yes
+197;DOM PEDRO II;2010;42;female;68.1;no;no;no;no;no
+198;ANALIA FRANCO;2010;43;male;110.9;no;no;no;no;no
+199;PENHA;2016;33;male;54.9;yes;yes;no;no;no
+200;SAO CAMILO;2013;41;male;105.4;no;no;no;yes;no
+201;VILLA LOBOS;2016;100;female;95.1;yes;yes;no;no;yes
+202;BUTANTA;2016;87;female;66.0;yes;yes;yes;no;yes
+203;BUTANTA;2017;69;female;85.7;no;no;yes;no;yes
+204;PENHA;2016;94;male;95.3;no;no;no;no;no
+205;PARAISOPOLIS;2015;9;male;31.7;yes;yes;yes;yes;yes
+206;VILLA LOBOS;2015;5;male;22.6;yes;no;yes;yes;yes
+207;BUTANTA;2013;59;female;123.9;no;no;yes;yes;yes
+208;ANALIA FRANCO;2017;45;female;93.5;yes;yes;no;yes;yes
+209;SANTA RITA;2017;48;male;56.8;no;no;no;no;no
+210;PARAISOPOLIS;2017;14;female;45.9;yes;yes;yes;no;yes
+211;ANA ROSA;2015;78;male;94.3;no;yes;no;yes;yes
+212;DOM BOSCO;2017;43;female;93.2;no;yes;no;yes;yes
+213;PARAISOPOLIS;2013;92;male;90.8;yes;yes;yes;no;yes
+214;ANA ROSA;2016;43;female;90.0;yes;yes;no;yes;yes
+215;ANALIA FRANCO;2015;12;female;35.4;yes;yes;yes;yes;yes
+216;BUTANTA;2014;70;male;84.5;no;yes;yes;no;yes
+217;VILLA LOBOS;2016;52;male;92.7;no;yes;yes;no;yes
+218;BUTANTA;2015;71;female;61.0;no;no;yes;no;no
+219;VILLA LOBOS;2016;9;male;30.8;no;no;yes;no;no
+220;SANTA RITA;2017;82;male;104.4;no;yes;yes;no;yes
+221;ANALIA FRANCO;2014;84;female;51.9;no;yes;no;yes;yes
+222;BUTANTA;2014;103;male;86.8;no;no;no;no;yes
+223;VILLA LOBOS;2017;7;female;31.8;no;yes;yes;yes;yes
+224;ANALIA FRANCO;2016;59;male;105.9;no;no;yes;no;no
+225;ANALIA FRANCO;2013;22;male;64.4;no;no;no;yes;yes
+226;SANTA RITA;2017;37;male;103.2;yes;yes;yes;yes;yes
+227;ANALIA FRANCO;2010;89;male;51.0;no;yes;yes;yes;yes
+228;VILLA LOBOS;2016;63;male;58.6;no;no;no;yes;no
+229;ANA ROSA;2017;0;male;4.0;yes;no;yes;yes;yes
+230;ANALIA FRANCO;2016;33;male;122.2;no;no;no;no;no
+231;PENHA;2016;8;male;28.6;no;no;no;no;no
+232;SAO CAMILO;2017;46;male;71.7;yes;no;yes;yes;yes
+233;PENHA;2015;46;male;99.8;yes;no;yes;no;yes
+234;VILLA LOBOS;2015;35;female;92.7;yes;yes;no;no;yes
+235;ANALIA FRANCO;2013;62;male;59.8;no;no;no;yes;no
+236;SAO CAMILO;2010;47;male;70.7;yes;no;no;yes;no
+237;SANTA RITA;2017;46;female;65.6;no;no;no;yes;yes
+238;SAO CAMILO;2016;65;male;134.7;no;no;no;no;yes
+239;VILLA LOBOS;2016;1;female;6.6;no;yes;no;no;no
+240;BUTANTA;2016;27;male;55.0;yes;yes;yes;yes;yes
+241;BUTANTA;2017;27;male;78.9;yes;yes;no;yes;yes
+242;BUTANTA;2010;83;female;51.7;yes;no;yes;no;yes
+243;BUTANTA;2013;64;male;65.4;yes;no;no;yes;yes
+244;PENHA;2014;59;male;62.0;yes;yes;no;yes;yes
+245;VILLA LOBOS;2017;2;male;14.0;yes;yes;no;yes;yes
+246;SANTA RITA;2015;89;female;64.5;yes;no;yes;yes;yes
+247;BUTANTA;2016;16;male;40.3;yes;yes;yes;no;yes
+248;VILLA LOBOS;2017;51;female;112.3;yes;no;yes;yes;yes
+249;VILLA LOBOS;2010;23;male;65.3;yes;yes;no;no;yes
+250;ANALIA FRANCO;2017;70;female;108.6;no;no;no;yes;yes
+251;BUTANTA;2017;58;female;76.6;no;no;yes;no;no
+252;ANA ROSA;2015;2;female;13.3;no;yes;yes;yes;yes
+253;DOM PEDRO II;2010;6;female;28.9;yes;no;no;yes;yes
+254;VILLA LOBOS;2013;36;male;78.7;no;yes;no;yes;yes
+255;BUTANTA;2010;72;male;60.1;no;no;no;no;no
+256;VILLA LOBOS;2014;41;female;124.8;yes;yes;no;no;yes
+257;SANTA RITA;2015;38;male;113.7;yes;yes;yes;yes;yes
+258;DOM BOSCO;2010;35;male;92.7;yes;no;yes;yes;yes
+259;SANTA RITA;2014;51;female;98.4;no;no;no;yes;no
+260;VILLA LOBOS;2016;40;female;105.4;no;no;yes;no;no
+261;ANA ROSA;2015;49;female;101.7;no;no;yes;yes;no
+262;DOM BOSCO;2017;53;female;51.9;yes;yes;yes;yes;yes
+263;SANTA RITA;2016;60;male;65.6;yes;yes;yes;yes;yes
+264;BUTANTA;2010;37;male;114.1;yes;no;yes;yes;yes
+265;ANA ROSA;2010;57;male;74.0;yes;no;yes;no;yes
+266;DOM PEDRO II;2014;45;male;86.3;no;yes;yes;yes;yes
+267;BUTANTA;2010;39;female;56.3;yes;no;no;no;no
+268;VILLA LOBOS;2010;89;male;55.0;no;no;no;no;no
+269;SAO CAMILO;2016;51;male;70.2;no;no;no;yes;no
+270;ANALIA FRANCO;2014;49;female;76.3;no;yes;yes;no;yes
+271;BUTANTA;2010;90;female;132.8;no;no;no;yes;no
+272;DOM PEDRO II;2013;86;male;71.8;no;no;no;no;yes
+273;DOM PEDRO II;2015;88;male;89.1;yes;no;no;yes;yes
+274;VILLA LOBOS;2017;44;female;96.8;no;yes;yes;no;no
+275;VILLA LOBOS;2010;51;male;60.9;yes;yes;yes;yes;yes
+276;ANALIA FRANCO;2016;73;male;125.5;yes;yes;yes;yes;yes
+277;SAO CAMILO;2017;89;male;97.7;yes;no;no;yes;yes
+278;BUTANTA;2010;21;female;53.0;no;no;yes;no;no
+279;SAO CAMILO;2016;60;male;62.3;yes;no;yes;no;no
+280;BUTANTA;2016;39;female;98.2;no;no;no;no;no
+281;SAO CAMILO;2016;51;male;51.9;no;no;yes;yes;no
+282;PENHA;2016;50;male;75.8;no;no;yes;no;yes
+283;PENHA;2014;76;female;93.7;no;yes;no;no;yes
+284;SANTA RITA;2016;31;male;53.1;no;no;no;yes;no
+285;BUTANTA;2014;1;female;9.6;yes;no;no;yes;yes
+286;DOM PEDRO II;2015;74;male;82.8;no;no;no;no;yes
+287;SANTA RITA;2016;58;female;93.5;yes;no;yes;no;yes
+288;BUTANTA;2015;51;female;116.6;yes;no;no;yes;yes
+289;VILLA LOBOS;2010;22;male;63.7;no;no;no;no;no
+290;SANTA RITA;2013;42;male;56.8;yes;no;no;no;no
+291;SAO CAMILO;2013;34;male;74.9;no;no;no;yes;no
+292;VILLA LOBOS;2016;33;male;102.5;no;no;no;no;no
+293;DOM BOSCO;2017;79;male;76.2;no;no;no;no;no
+294;BUTANTA;2013;88;male;55.7;yes;no;yes;no;no
+295;DOM BOSCO;2017;76;male;77.9;no;yes;no;no;yes
+296;ANALIA FRANCO;2017;58;male;97.1;yes;no;yes;yes;yes
+297;BUTANTA;2015;35;male;101.0;yes;yes;yes;yes;yes
+298;SANTA RITA;2017;27;male;82.7;no;yes;no;no;no
+299;VILLA LOBOS;2017;54;male;85.3;no;yes;no;no;no
+300;DOM BOSCO;2015;47;male;104.9;no;no;no;yes;no
+301;ANALIA FRANCO;2017;71;male;65.8;no;yes;yes;yes;yes
+302;ANA ROSA;2013;38;male;51.1;no;yes;yes;yes;no
+303;VILLA LOBOS;2015;5;male;21.0;yes;no;yes;no;yes
+304;VILLA LOBOS;2017;66;female;60.2;no;no;no;yes;no
+305;VILLA LOBOS;2016;44;female;127.1;yes;no;no;yes;no
+306;SANTA RITA;2015;35;male;111.6;yes;yes;no;yes;yes
+307;BUTANTA;2015;12;male;45.3;no;yes;yes;yes;yes
+308;SAO CAMILO;2017;13;male;37.0;no;yes;yes;yes;yes
+309;BUTANTA;2010;36;female;102.6;yes;yes;yes;yes;yes
+310;ANA ROSA;2016;84;male;68.6;yes;no;no;yes;no
+311;DOM PEDRO II;2014;89;male;63.5;no;no;yes;no;no
+312;BUTANTA;2017;72;male;63.7;no;no;yes;no;no
+313;SANTA RITA;2016;33;female;95.4;no;no;no;no;no
+314;BUTANTA;2014;88;female;66.3;no;yes;yes;yes;yes
+315;SANTA RITA;2010;76;female;61.8;no;no;yes;no;yes
+316;BUTANTA;2015;6;male;24.5;no;no;no;no;no
+317;PENHA;2016;27;male;65.0;no;no;yes;yes;no
+318;BUTANTA;2010;54;male;65.4;no;no;yes;yes;no
+319;VILLA LOBOS;2010;7;female;32.9;no;no;yes;no;no
+320;SAO CAMILO;2017;54;male;100.4;no;yes;no;yes;yes
+321;VILLA LOBOS;2015;45;male;64.7;no;yes;no;yes;yes
+322;BUTANTA;2010;33;male;95.9;yes;yes;yes;no;yes
+323;BUTANTA;2010;42;female;59.4;no;no;no;yes;no
+324;DOM PEDRO II;2010;82;female;86.9;no;no;yes;no;no
+325;VILLA LOBOS;2010;32;female;103.9;yes;no;no;no;no
+326;PENHA;2015;36;female;79.1;no;no;no;no;no
+327;SAO CAMILO;2017;72;female;98.5;yes;no;no;no;yes
+328;VILLA LOBOS;2015;41;female;61.3;yes;yes;yes;yes;yes
+329;VILLA LOBOS;2015;3;female;17.0;yes;no;yes;yes;yes
+330;SAO CAMILO;2017;84;female;87.9;yes;no;yes;no;yes
+331;DOM BOSCO;2010;27;female;70.1;yes;yes;yes;yes;yes
+332;DOM PEDRO II;2017;24;male;121.2;no;no;no;no;no
+333;PARAISOPOLIS;2013;55;female;89.1;no;no;no;yes;no
+334;VILLA LOBOS;2017;10;male;32.8;no;no;no;no;no
+335;VILLA LOBOS;2017;6;male;20.6;no;yes;yes;yes;yes
+336;VILLA LOBOS;2013;45;female;97.3;no;no;yes;yes;yes
+337;BUTANTA;2017;42;female;122.7;yes;yes;yes;yes;yes
+338;BUTANTA;2010;4;female;15.0;yes;no;yes;yes;yes
+339;VILLA LOBOS;2014;0;male;3.7;yes;yes;yes;yes;yes
+340;VILLA LOBOS;2010;37;male;84.3;no;yes;yes;yes;yes
+341;SANTA RITA;2010;85;female;98.7;no;no;no;yes;no
+342;VILLA LOBOS;2010;41;female;71.3;no;no;yes;no;no
+343;DOM PEDRO II;2015;37;male;94.0;yes;yes;yes;yes;yes
+344;VILLA LOBOS;2016;39;female;99.7;no;no;yes;no;no
+345;VILLA LOBOS;2010;28;female;62.6;yes;no;yes;yes;yes
+346;VILLA LOBOS;2016;42;female;66.9;yes;no;no;no;no
+347;BUTANTA;2010;12;male;38.3;no;yes;yes;yes;yes
+348;SANTA RITA;2010;32;male;65.1;no;yes;no;yes;yes
+349;BUTANTA;2010;51;female;61.9;yes;yes;no;yes;yes
+350;SANTA RITA;2013;28;male;84.2;yes;yes;yes;no;yes
+351;SANTA RITA;2014;63;male;102.0;no;no;no;no;yes
+352;ANA ROSA;2015;52;female;54.2;yes;no;no;yes;yes
+353;DOM PEDRO II;2010;48;male;95.2;no;no;no;yes;yes
+354;VILLA LOBOS;2017;43;female;70.4;no;yes;yes;yes;yes
+355;PARAISOPOLIS;2017;69;male;96.0;no;no;no;no;no
+356;BUTANTA;2015;48;female;63.0;no;yes;yes;yes;no
+357;VILLA LOBOS;2015;34;female;75.1;yes;yes;yes;no;yes
+358;VILLA LOBOS;2017;14;male;37.1;yes;yes;yes;yes;yes
+359;VILLA LOBOS;2013;19;male;48.0;no;no;no;no;no
+360;VILLA LOBOS;2014;14;female;34.2;yes;yes;yes;no;yes
+361;BUTANTA;2017;76;female;68.9;no;no;no;no;yes
+362;ANALIA FRANCO;2016;30;female;103.3;no;no;no;no;no
+363;VILLA LOBOS;2013;44;female;81.7;no;no;no;yes;yes
+364;PARAISOPOLIS;2016;46;male;132.5;no;no;yes;yes;yes
+365;PARAISOPOLIS;2016;71;female;88.9;no;yes;no;yes;yes
+366;SAO CAMILO;2010;35;male;120.8;yes;no;no;no;no
+367;BUTANTA;2016;55;female;94.2;yes;yes;yes;no;yes
+368;BUTANTA;2015;25;male;54.6;no;no;yes;yes;yes
+369;ANA ROSA;2014;5;male;23.2;yes;yes;yes;yes;yes
+370;DOM BOSCO;2015;24;female;91.1;yes;yes;yes;no;yes
+371;BUTANTA;2017;40;female;91.6;no;yes;no;yes;yes
+372;SAO CAMILO;2014;56;female;97.1;no;no;no;no;no
+373;SANTA RITA;2014;16;male;41.5;no;yes;no;no;yes
+374;DOM PEDRO II;2014;56;male;61.4;no;yes;no;yes;no
+375;ANALIA FRANCO;2015;28;female;61.0;no;yes;yes;no;yes
+376;VILLA LOBOS;2015;44;male;124.6;no;yes;yes;no;yes
+377;SANTA RITA;2014;54;male;99.2;no;yes;no;yes;yes
+378;BUTANTA;2015;70;female;104.8;no;no;yes;no;yes
+379;ANA ROSA;2014;8;male;29.2;yes;no;yes;yes;yes
+380;VILLA LOBOS;2016;44;male;131.3;yes;no;no;yes;no
+381;SAO CAMILO;2017;21;female;64.1;no;no;no;yes;yes
+382;PARAISOPOLIS;2010;41;male;81.2;yes;yes;yes;no;yes
+383;BUTANTA;2017;4;male;20.8;yes;no;yes;yes;yes
+384;VILLA LOBOS;2013;87;female;97.8;no;yes;yes;yes;yes
+385;SAO CAMILO;2017;11;female;37.9;no;no;yes;yes;no
+386;ANA ROSA;2016;1;female;5.1;yes;yes;yes;yes;yes
+387;ANA ROSA;2010;45;male;128.5;no;yes;yes;yes;yes
+388;VILLA LOBOS;2016;53;male;67.0;yes;no;yes;no;yes
+389;BUTANTA;2010;86;male;97.6;no;no;no;yes;no
+390;SANTA RITA;2017;87;female;86.5;no;yes;no;no;no
+391;VILLA LOBOS;2016;86;male;50.5;no;no;yes;no;yes
+392;SANTA RITA;2017;12;male;42.6;no;no;no;no;no
+393;SAO CAMILO;2017;22;male;76.6;yes;yes;yes;yes;yes
+394;BUTANTA;2010;34;male;92.6;yes;yes;yes;no;yes
+395;VILLA LOBOS;2015;38;male;79.0;yes;no;no;no;yes
+396;SAO CAMILO;2010;85;male;98.2;no;no;no;yes;no
+397;VILLA LOBOS;2014;21;male;102.3;yes;no;no;yes;yes
+398;VILLA LOBOS;2017;43;female;96.0;no;yes;no;yes;yes
+399;BUTANTA;2016;38;male;80.1;yes;no;yes;yes;yes
+400;BUTANTA;2010;37;male;86.4;yes;yes;yes;no;no
+401;SANTA RITA;2017;56;female;64.0;no;yes;no;yes;yes
+402;VILLA LOBOS;2013;45;male;90.3;no;yes;no;yes;no
+403;PARAISOPOLIS;2016;46;female;50.1;yes;yes;no;no;yes
+404;VILLA LOBOS;2013;87;female;70.9;no;no;no;no;no
+405;BUTANTA;2010;50;male;81.9;no;yes;no;yes;yes
+406;DOM PEDRO II;2015;31;male;72.1;yes;no;yes;yes;yes
+407;BUTANTA;2010;62;male;123.0;yes;yes;yes;yes;yes
+408;DOM BOSCO;2015;11;male;34.6;no;no;no;no;no
+409;SAO CAMILO;2010;34;male;104.0;yes;yes;no;yes;yes
+410;SANTA RITA;2017;42;female;87.0;yes;no;yes;no;no
+411;SANTA RITA;2017;7;female;21.4;yes;no;yes;yes;yes
+412;ANA ROSA;2016;64;female;101.0;yes;no;yes;no;yes
+413;VILLA LOBOS;2016;53;male;105.7;yes;no;yes;yes;yes
+414;ANALIA FRANCO;2016;7;male;32.3;yes;yes;yes;no;yes
+415;BUTANTA;2016;11;female;45.1;yes;no;yes;yes;no
+416;DOM BOSCO;2013;59;male;64.1;no;no;no;yes;yes
+417;VILLA LOBOS;2015;15;female;60.2;yes;yes;yes;yes;yes
+418;BUTANTA;2010;49;female;112.4;no;yes;no;no;yes
+419;PARAISOPOLIS;2017;8;female;22.7;yes;yes;no;yes;no
+420;SANTA RITA;2014;82;female;95.6;yes;no;no;no;yes
+421;BUTANTA;2017;33;female;91.2;no;yes;no;yes;yes
+422;SAO CAMILO;2010;2;female;13.7;no;no;yes;yes;yes
+423;SANTA RITA;2014;81;male;53.3;no;no;no;no;no
+424;SAO CAMILO;2017;56;male;86.3;yes;no;no;yes;yes
+425;VILLA LOBOS;2016;84;female;105.6;no;no;no;no;no
+426;SANTA RITA;2016;33;male;88.5;no;yes;yes;yes;no
+427;SANTA RITA;2017;34;male;105.9;yes;no;no;no;yes
+428;DOM PEDRO II;2013;50;male;94.7;no;yes;yes;yes;yes
+429;DOM BOSCO;2010;38;male;78.3;no;no;yes;yes;yes
+430;PENHA;2010;73;male;90.0;yes;no;yes;yes;yes
+431;VILLA LOBOS;2017;22;male;121.8;yes;no;yes;yes;yes
+432;SAO CAMILO;2017;58;female;95.5;no;no;no;no;no
+433;VILLA LOBOS;2010;78;male;85.4;no;no;no;yes;no
+434;BUTANTA;2017;30;female;94.1;no;no;no;yes;no
+435;DOM PEDRO II;2015;54;male;92.7;yes;no;no;no;no
+436;PENHA;2015;37;male;55.1;yes;no;no;yes;yes
+437;ANALIA FRANCO;2017;78;male;59.4;no;no;no;yes;no
+438;PENHA;2016;66;female;85.8;no;yes;no;no;yes
+439;DOM PEDRO II;2017;31;male;128.6;no;yes;no;yes;yes
+440;ANALIA FRANCO;2013;0;female;3.3;no;no;no;no;no
+441;SANTA RITA;2013;75;male;99.5;no;no;no;yes;no
+442;SANTA RITA;2017;49;male;93.7;no;no;yes;no;no
+443;ANA ROSA;2010;32;male;87.6;no;no;no;yes;no
+444;ANALIA FRANCO;2015;9;male;31.0;yes;yes;yes;no;yes
+445;ANA ROSA;2014;58;male;85.5;no;no;no;no;no
+446;PENHA;2017;88;female;100.4;yes;no;yes;no;yes
+447;BUTANTA;2016;18;female;44.2;yes;yes;no;yes;yes
+448;VILLA LOBOS;2010;17;male;59.7;no;no;no;no;no
+449;VILLA LOBOS;2016;86;male;113.4;no;yes;yes;no;yes
+450;BUTANTA;2017;37;female;67.3;yes;yes;no;no;yes
+451;ANA ROSA;2016;24;male;94.5;yes;no;yes;no;yes
+452;BUTANTA;2010;45;female;105.8;yes;yes;yes;yes;yes
+453;SAO CAMILO;2017;35;male;103.6;yes;yes;yes;no;yes
+454;SANTA RITA;2013;35;male;93.5;yes;yes;no;yes;yes
+455;ANALIA FRANCO;2015;34;female;131.2;no;no;yes;yes;yes
+456;ANA ROSA;2010;59;male;80.1;no;yes;no;yes;yes
+457;SAO CAMILO;2016;55;male;88.3;no;yes;yes;yes;yes
+458;PARAISOPOLIS;2017;6;male;20.5;yes;no;yes;yes;yes
+459;VILLA LOBOS;2017;3;female;14.8;yes;yes;yes;yes;yes
+460;PARAISOPOLIS;2016;43;male;101.9;no;no;yes;yes;no
+461;PARAISOPOLIS;2013;59;male;70.0;no;yes;yes;yes;yes
+462;ANA ROSA;2014;90;female;85.6;no;no;yes;no;yes
+463;DOM BOSCO;2010;95;male;65.0;no;no;yes;yes;yes
+464;BUTANTA;2015;15;male;43.2;yes;no;yes;yes;yes
+465;PARAISOPOLIS;2017;83;male;62.4;no;no;no;yes;no
+466;ANALIA FRANCO;2010;49;female;80.4;no;no;no;yes;no
+467;ANA ROSA;2010;8;male;27.2;yes;yes;no;yes;yes
+468;PENHA;2015;33;male;80.7;yes;no;no;no;yes
+469;ANALIA FRANCO;2013;37;female;59.7;yes;yes;no;yes;yes
+470;BUTANTA;2010;35;male;120.0;no;no;no;yes;no
+471;PARAISOPOLIS;2016;27;male;103.9;no;yes;yes;no;no
+472;BUTANTA;2010;79;female;100.1;yes;no;no;no;no
+473;VILLA LOBOS;2013;55;female;57.4;no;no;no;no;no
+474;DOM PEDRO II;2010;4;male;17.4;no;no;yes;yes;yes
+475;SAO CAMILO;2010;36;male;70.7;no;no;no;yes;no
+476;VILLA LOBOS;2014;13;female;36.2;yes;yes;yes;yes;yes
+477;ANA ROSA;2016;21;female;62.7;no;yes;no;no;yes
+478;SANTA RITA;2014;10;male;33.1;no;yes;yes;no;no
+479;SANTA RITA;2013;65;female;55.6;yes;yes;yes;yes;yes
+480;DOM PEDRO II;2015;57;female;95.1;yes;yes;yes;no;yes
+481;SAO CAMILO;2014;11;male;34.0;yes;no;yes;no;yes
+482;VILLA LOBOS;2015;16;male;42.2;no;no;no;no;no
+483;ANALIA FRANCO;2013;78;male;76.2;yes;no;no;no;yes
+484;SANTA RITA;2017;80;female;99.6;no;no;no;yes;yes
+485;BUTANTA;2010;41;female;92.1;yes;no;yes;no;yes
+486;ANALIA FRANCO;2013;67;female;94.6;yes;yes;yes;no;yes
+487;ANA ROSA;2017;7;male;29.9;yes;yes;no;yes;yes
+488;SAO CAMILO;2010;87;male;77.9;no;no;no;no;no
+489;SAO CAMILO;2017;32;male;130.2;no;yes;no;yes;yes
+490;BUTANTA;2015;51;male;61.1;no;no;no;no;no
+491;DOM BOSCO;2010;40;female;73.9;no;no;yes;no;no
+492;PARAISOPOLIS;2010;46;male;84.7;no;no;no;yes;no
+493;PENHA;2017;1;male;8.0;yes;yes;yes;yes;yes
+494;PENHA;2016;50;male;83.7;yes;no;yes;no;yes
+495;SANTA RITA;2017;45;female;55.7;no;no;yes;yes;no
+496;ANALIA FRANCO;2013;25;female;56.9;no;no;yes;yes;yes
+497;SANTA RITA;2013;73;male;90.3;no;yes;no;yes;yes
+498;DOM PEDRO II;2017;57;male;63.3;yes;yes;yes;yes;yes
+499;VILLA LOBOS;2015;90;male;100.1;no;no;no;no;no
+500;DOM BOSCO;2013;19;female;51.8;yes;no;yes;no;yes
+501;BUTANTA;2017;4;male;15.4;no;no;no;yes;no
+502;VILLA LOBOS;2014;55;male;69.4;yes;yes;no;yes;yes
+503;VILLA LOBOS;2010;75;male;90.9;no;no;no;yes;no
+504;SANTA RITA;2015;55;female;67.6;yes;yes;yes;yes;yes
+505;SANTA RITA;2015;39;female;95.7;no;no;no;yes;no
+506;PENHA;2016;86;female;91.2;no;yes;yes;yes;yes
+507;ANA ROSA;2015;21;male;95.4;yes;yes;no;no;yes
+508;VILLA LOBOS;2013;81;female;61.0;no;yes;no;no;yes
+509;SANTA RITA;2013;59;male;53.0;no;yes;yes;yes;yes
+510;SANTA RITA;2017;27;male;53.7;yes;no;yes;yes;yes
+511;BUTANTA;2017;26;female;80.2;no;yes;yes;yes;yes
+512;BUTANTA;2010;46;male;105.9;no;no;no;no;no
+513;DOM BOSCO;2017;45;male;80.8;no;yes;no;no;yes
+514;VILLA LOBOS;2010;13;male;45.0;yes;no;yes;yes;yes
+515;DOM PEDRO II;2010;58;female;75.1;no;no;no;yes;no
+516;ANA ROSA;2013;26;female;85.7;no;yes;no;no;yes
+517;PENHA;2010;64;male;95.4;no;no;no;no;no
+518;ANA ROSA;2017;47;male;101.6;no;no;no;yes;no
+519;ANA ROSA;2016;37;female;55.0;yes;no;yes;yes;no
+520;ANALIA FRANCO;2013;12;female;34.8;yes;yes;yes;yes;yes
+521;BUTANTA;2013;57;male;62.6;yes;yes;yes;yes;yes
+522;BUTANTA;2014;46;male;85.1;yes;yes;yes;yes;yes
+523;PENHA;2016;75;male;97.5;no;no;no;no;no
+524;BUTANTA;2015;72;female;83.6;yes;no;no;yes;yes
+525;BUTANTA;2017;37;male;118.7;yes;yes;no;yes;yes
+526;DOM PEDRO II;2016;52;male;61.3;no;no;no;no;no
+527;ANA ROSA;2016;52;female;91.2;yes;yes;yes;no;yes
+528;SANTA RITA;2010;9;female;29.8;yes;yes;yes;yes;yes
+529;BUTANTA;2010;8;male;21.9;yes;no;no;no;no
+530;VILLA LOBOS;2016;15;female;47.2;yes;no;yes;yes;yes
+531;SAO CAMILO;2010;38;female;119.1;yes;yes;yes;yes;yes
+532;ANA ROSA;2010;1;male;10.7;yes;no;yes;yes;no
+533;SANTA RITA;2016;53;male;68.9;yes;yes;no;yes;yes
+534;SAO CAMILO;2014;89;male;63.7;yes;yes;no;yes;yes
+535;ANA ROSA;2017;35;female;119.8;yes;yes;yes;yes;yes
+536;DOM PEDRO II;2016;32;female;80.8;no;no;no;yes;no
+537;ANALIA FRANCO;2010;25;female;86.7;yes;no;no;no;yes
+538;ANALIA FRANCO;2010;82;female;61.3;no;yes;no;no;no
+539;SAO CAMILO;2017;52;female;61.9;yes;yes;no;yes;no
+540;DOM PEDRO II;2010;57;female;131.8;yes;no;yes;no;yes
+541;BUTANTA;2016;100;female;86.9;yes;no;no;no;yes
+542;SANTA RITA;2017;60;male;76.2;yes;no;yes;yes;yes
+543;ANALIA FRANCO;2010;39;male;103.8;yes;yes;no;yes;yes
+544;PARAISOPOLIS;2017;25;female;101.5;no;no;no;no;no
+545;VILLA LOBOS;2016;56;male;82.8;yes;yes;no;no;yes
+546;VILLA LOBOS;2010;34;female;86.0;yes;no;no;yes;yes
+547;BUTANTA;2010;59;male;114.4;no;yes;yes;yes;no
+548;DOM BOSCO;2017;47;female;97.6;yes;yes;no;yes;yes
+549;VILLA LOBOS;2017;17;female;54.4;no;no;yes;yes;yes
+550;BUTANTA;2014;39;male;65.3;yes;no;no;yes;no
+551;VILLA LOBOS;2015;29;male;88.4;yes;yes;yes;yes;yes
+552;BUTANTA;2014;44;male;68.1;no;no;no;yes;no
+553;BUTANTA;2017;33;male;97.6;no;no;no;no;no
+554;DOM BOSCO;2017;40;male;52.2;yes;yes;yes;yes;yes
+555;ANALIA FRANCO;2016;73;male;101.0;yes;yes;yes;no;yes
+556;SANTA RITA;2015;76;female;64.7;no;no;no;no;no
+557;SANTA RITA;2017;35;male;92.7;no;no;no;yes;yes
+558;SANTA RITA;2010;70;female;50.1;no;no;no;yes;no
+559;SANTA RITA;2015;76;male;63.0;no;no;no;no;yes
+560;BUTANTA;2016;87;male;50.0;no;no;yes;yes;yes
+561;ANALIA FRANCO;2010;83;female;78.6;no;yes;no;no;yes
+562;BUTANTA;2013;44;female;119.5;no;no;yes;yes;yes
+563;PARAISOPOLIS;2016;84;male;71.3;yes;no;no;no;yes
+564;DOM BOSCO;2010;26;female;94.1;no;yes;yes;no;yes
+565;ANALIA FRANCO;2015;79;female;81.8;no;no;no;yes;no
+566;ANA ROSA;2016;44;male;102.2;no;yes;yes;yes;yes
+567;DOM PEDRO II;2013;41;male;103.6;no;yes;no;no;yes
+568;DOM BOSCO;2017;89;male;104.7;yes;no;yes;no;yes
+569;VILLA LOBOS;2010;47;male;62.9;yes;no;yes;no;yes
+570;VILLA LOBOS;2010;22;female;79.6;yes;no;yes;yes;yes
+571;BUTANTA;2014;25;female;72.3;yes;yes;no;yes;yes
+572;DOM PEDRO II;2014;44;male;58.2;no;yes;no;no;yes
+573;ANA ROSA;2017;4;male;20.8;no;no;no;yes;no
+574;BUTANTA;2013;57;female;92.1;yes;no;no;yes;yes
+575;SAO CAMILO;2017;8;female;20.2;yes;yes;yes;yes;yes
+576;BUTANTA;2015;49;male;60.8;no;no;yes;no;no
+577;SANTA RITA;2017;54;male;61.7;no;yes;yes;yes;yes
+578;ANA ROSA;2010;26;male;85.5;no;no;no;yes;yes
+579;VILLA LOBOS;2014;72;male;124.0;yes;yes;yes;no;yes
+580;DOM BOSCO;2016;33;male;56.6;yes;yes;yes;no;yes
+581;VILLA LOBOS;2015;38;female;90.0;yes;no;no;yes;yes
+582;DOM BOSCO;2017;8;male;30.1;yes;yes;yes;yes;yes
+583;BUTANTA;2010;2;male;14.5;yes;no;yes;no;no
+584;SANTA RITA;2010;38;male;95.8;yes;yes;yes;yes;yes
+585;SANTA RITA;2010;45;male;100.1;no;no;no;no;no
+586;PARAISOPOLIS;2015;7;male;20.0;no;yes;no;yes;yes
+587;ANALIA FRANCO;2017;28;male;79.7;no;no;no;yes;no
+588;BUTANTA;2014;47;male;77.4;yes;no;yes;yes;no
+589;PENHA;2015;1;female;6.4;yes;no;no;no;yes
+590;VILLA LOBOS;2010;53;male;98.1;no;no;no;no;no
+591;BUTANTA;2013;39;male;95.1;no;no;no;no;yes
+592;ANA ROSA;2014;38;male;135.7;no;no;yes;no;no
+593;SAO CAMILO;2015;40;female;67.4;no;no;yes;no;no
+594;SAO CAMILO;2010;7;female;30.5;no;no;no;yes;no
+595;VILLA LOBOS;2014;81;male;55.7;no;no;no;no;no
+596;BUTANTA;2013;88;female;63.8;no;yes;no;no;yes
+597;VILLA LOBOS;2010;31;male;101.9;yes;yes;no;no;yes
+598;BUTANTA;2016;85;female;124.0;yes;no;no;yes;yes
+599;ANA ROSA;2017;14;male;41.2;no;no;no;no;no
+600;BUTANTA;2016;24;female;65.2;yes;no;no;yes;yes
+601;VILLA LOBOS;2010;33;male;55.9;yes;no;yes;yes;yes
+602;PARAISOPOLIS;2014;36;female;100.3;no;no;no;no;no
+603;VILLA LOBOS;2017;58;female;92.0;no;yes;no;no;yes
+604;BUTANTA;2013;31;female;94.7;no;no;no;no;no
+605;VILLA LOBOS;2014;32;male;54.6;yes;no;yes;yes;yes
+606;BUTANTA;2017;73;female;86.1;no;no;yes;no;no
+607;BUTANTA;2015;76;female;64.6;no;no;no;yes;no
+608;PARAISOPOLIS;2013;13;male;34.0;yes;no;yes;yes;yes
+609;BUTANTA;2016;5;male;16.7;no;no;no;yes;no
+610;BUTANTA;2014;68;male;94.0;no;no;no;yes;yes
+611;VILLA LOBOS;2015;22;male;54.4;no;yes;no;yes;yes
+612;SAO CAMILO;2010;57;male;87.3;yes;yes;yes;yes;yes
+613;DOM BOSCO;2014;84;female;102.6;yes;no;no;yes;yes
+614;BUTANTA;2014;35;male;83.6;no;yes;yes;no;no
+615;SAO CAMILO;2017;59;male;98.4;no;no;no;yes;no
+616;DOM PEDRO II;2010;57;female;89.7;no;no;yes;yes;no
+617;VILLA LOBOS;2014;74;female;78.5;yes;no;no;no;yes
+618;BUTANTA;2010;41;female;113.5;no;yes;no;no;yes
+619;BUTANTA;2017;60;female;88.6;no;no;yes;yes;no
+620;VILLA LOBOS;2013;16;female;48.7;no;yes;no;yes;no
+621;VILLA LOBOS;2017;47;male;92.7;yes;yes;yes;no;yes
+622;ANA ROSA;2010;60;male;92.1;yes;yes;yes;yes;yes
+623;SAO CAMILO;2010;6;male;21.2;no;yes;no;yes;yes
+624;BUTANTA;2010;81;female;62.9;yes;no;no;yes;yes
+625;DOM PEDRO II;2016;28;male;64.1;no;no;no;no;no
+626;ANA ROSA;2013;69;female;74.1;yes;no;no;yes;no
+627;VILLA LOBOS;2014;20;male;56.6;no;no;no;yes;no
+628;ANALIA FRANCO;2010;52;female;51.4;yes;yes;no;yes;yes
+629;VILLA LOBOS;2017;87;male;98.7;yes;yes;no;no;yes
+630;ANA ROSA;2014;86;female;61.6;no;yes;no;no;yes
+631;ANA ROSA;2016;21;male;63.8;no;yes;yes;yes;yes
+632;BUTANTA;2013;66;male;52.8;no;yes;yes;yes;yes
+633;BUTANTA;2010;23;female;111.9;yes;yes;no;yes;yes
+634;DOM BOSCO;2013;28;female;102.5;yes;yes;yes;yes;yes
+635;VILLA LOBOS;2017;5;male;16.3;no;yes;yes;yes;no
+636;DOM BOSCO;2017;71;female;54.4;yes;no;yes;yes;yes
+637;PENHA;2017;45;female;93.9;no;no;no;yes;yes
+638;SAO CAMILO;2015;68;male;96.6;no;no;no;yes;no
+639;PARAISOPOLIS;2015;88;female;120.3;no;no;no;no;yes
+640;VILLA LOBOS;2013;49;female;89.3;no;yes;yes;no;yes
+641;ANA ROSA;2016;11;male;38.7;yes;no;yes;yes;yes
+642;ANA ROSA;2017;2;male;14.8;yes;yes;no;yes;yes
+643;SANTA RITA;2017;49;male;50.9;no;no;yes;no;yes
+644;BUTANTA;2010;18;male;47.5;yes;no;yes;no;no
+645;DOM BOSCO;2014;21;male;103.2;no;no;no;yes;no
+646;BUTANTA;2016;58;male;99.0;no;no;yes;no;no
+647;SANTA RITA;2017;79;male;64.5;no;no;no;no;no
+648;SAO CAMILO;2013;38;female;102.7;yes;no;no;yes;yes
+649;SAO CAMILO;2016;32;female;62.4;no;no;no;no;no
+650;DOM PEDRO II;2017;79;female;50.8;no;yes;yes;no;yes
+651;ANALIA FRANCO;2016;47;female;113.8;no;no;yes;no;no
+652;BUTANTA;2010;57;male;59.1;yes;no;no;yes;no
+653;SAO CAMILO;2017;58;male;93.3;yes;no;no;no;no
+654;BUTANTA;2015;86;female;64.2;no;yes;no;yes;yes
+655;DOM PEDRO II;2010;51;female;58.9;no;no;no;no;no
+656;BUTANTA;2010;64;male;85.4;no;no;yes;yes;no
+657;VILLA LOBOS;2016;21;male;62.1;no;no;no;no;no
+658;VILLA LOBOS;2014;54;male;86.9;yes;no;yes;yes;yes
+659;VILLA LOBOS;2017;71;female;97.1;no;yes;yes;yes;yes
+660;VILLA LOBOS;2017;77;male;91.4;no;no;no;yes;no
+661;BUTANTA;2010;26;male;122.8;no;yes;no;no;no
+662;ANA ROSA;2015;60;male;128.8;no;no;no;no;no
+663;DOM PEDRO II;2010;32;female;90.3;yes;no;yes;yes;no
+664;VILLA LOBOS;2017;22;male;90.4;no;no;no;yes;no
+665;VILLA LOBOS;2017;43;male;72.5;no;yes;yes;yes;yes
+666;SANTA RITA;2016;11;male;35.0;yes;yes;no;no;no
+667;VILLA LOBOS;2016;28;male;96.7;yes;no;yes;yes;yes
+668;ANALIA FRANCO;2015;39;male;60.1;yes;no;yes;no;no
+669;SAO CAMILO;2016;24;female;89.5;yes;no;yes;yes;yes
+670;BUTANTA;2013;46;female;105.4;yes;no;yes;yes;no
+671;DOM PEDRO II;2016;52;female;54.2;yes;yes;no;yes;yes
+672;VILLA LOBOS;2015;68;male;66.1;yes;no;yes;yes;yes
+673;VILLA LOBOS;2010;52;male;102.8;no;yes;yes;yes;no
+674;BUTANTA;2010;24;male;108.3;no;no;yes;yes;no
+675;SAO CAMILO;2017;37;female;74.9;no;no;no;yes;yes
+676;SAO CAMILO;2015;51;male;99.0;yes;yes;yes;no;yes
+677;PENHA;2010;37;male;89.2;no;no;no;yes;yes
+678;SANTA RITA;2017;27;female;86.9;yes;yes;no;yes;no
+679;SAO CAMILO;2016;41;male;80.7;yes;no;no;no;no
+680;BUTANTA;2016;11;male;43.7;yes;yes;no;no;yes
+681;VILLA LOBOS;2016;24;male;89.5;yes;yes;yes;yes;yes
+682;VILLA LOBOS;2013;35;female;88.7;no;no;no;yes;yes
+683;BUTANTA;2016;48;male;92.7;yes;yes;no;yes;yes
+684;VILLA LOBOS;2015;22;female;105.4;yes;yes;yes;no;yes
+685;BUTANTA;2017;43;female;130.8;no;no;no;no;yes
+686;VILLA LOBOS;2017;20;male;62.9;no;no;yes;yes;no
+687;BUTANTA;2017;31;female;58.8;no;no;no;no;no
+688;SANTA RITA;2017;26;male;83.7;no;no;no;no;no
+689;VILLA LOBOS;2010;17;male;45.6;no;no;yes;no;no
+690;ANALIA FRANCO;2017;57;male;86.1;yes;yes;yes;yes;yes
+691;BUTANTA;2015;17;male;45.0;no;no;no;no;no
+692;PARAISOPOLIS;2010;14;female;39.3;no;yes;yes;yes;yes
+693;BUTANTA;2016;41;male;52.6;no;yes;yes;no;no
+694;BUTANTA;2014;83;female;100.7;no;no;no;no;yes
+695;ANALIA FRANCO;2015;68;male;60.9;yes;no;no;no;yes
+696;VILLA LOBOS;2010;40;male;63.3;no;yes;yes;no;no
+697;VILLA LOBOS;2017;74;male;63.2;no;no;no;no;no
+698;ANA ROSA;2014;58;female;66.1;no;yes;yes;yes;yes
+699;SANTA RITA;2013;52;male;99.7;no;no;no;yes;no
+700;PARAISOPOLIS;2016;39;female;97.1;no;no;yes;yes;no
+701;BUTANTA;2013;52;female;76.6;no;no;yes;yes;no
+702;SAO CAMILO;2016;39;female;104.0;no;no;no;no;no
+703;SAO CAMILO;2017;80;male;104.4;no;yes;yes;no;yes
+704;SANTA RITA;2010;60;male;100.8;yes;yes;no;yes;yes
+705;VILLA LOBOS;2015;56;female;63.4;no;yes;no;yes;no
+706;BUTANTA;2014;81;female;53.3;no;no;yes;no;no
+707;ANALIA FRANCO;2013;86;male;135.5;no;no;no;yes;no
+708;SAO CAMILO;2017;1;male;10.5;yes;yes;yes;yes;yes
+709;ANA ROSA;2010;33;female;54.7;no;yes;yes;no;no
+710;BUTANTA;2017;27;female;110.1;yes;no;yes;yes;yes
+711;PENHA;2015;44;male;87.7;yes;no;yes;yes;yes
+712;ANALIA FRANCO;2010;36;female;91.4;no;no;no;yes;yes
+713;VILLA LOBOS;2017;81;male;90.9;yes;no;yes;no;yes
+714;DOM BOSCO;2015;25;male;103.4;no;no;no;no;no
+715;DOM PEDRO II;2015;52;male;71.3;yes;no;yes;yes;yes
+716;SANTA RITA;2014;7;male;30.1;yes;no;yes;yes;no
+717;BUTANTA;2017;99;male;61.6;yes;yes;no;no;yes
+718;VILLA LOBOS;2014;33;male;56.8;no;yes;yes;yes;yes
+719;BUTANTA;2015;8;female;26.3;yes;yes;yes;no;yes
+720;VILLA LOBOS;2015;90;male;91.1;no;no;no;yes;yes
+721;ANA ROSA;2010;37;female;71.9;yes;yes;yes;no;yes
+722;SAO CAMILO;2010;28;male;64.7;yes;yes;yes;no;yes
+723;PENHA;2015;65;male;72.3;no;no;yes;yes;no
+724;ANALIA FRANCO;2010;43;female;133.4;yes;yes;yes;no;yes
+725;SANTA RITA;2014;57;female;53.2;no;no;no;no;no
+726;SAO CAMILO;2010;59;male;97.9;yes;yes;yes;yes;yes
+727;BUTANTA;2017;59;male;57.0;no;no;yes;no;no
+728;VILLA LOBOS;2010;26;female;64.6;yes;yes;yes;yes;yes
+729;DOM PEDRO II;2010;58;male;53.4;no;no;yes;no;no
+730;VILLA LOBOS;2017;55;male;122.6;no;no;yes;yes;no
+731;BUTANTA;2010;78;male;87.7;no;no;no;no;no
+732;VILLA LOBOS;2014;27;female;81.2;no;no;no;yes;yes
+733;VILLA LOBOS;2017;5;female;15.4;yes;no;no;yes;yes
+734;SANTA RITA;2013;58;male;118.4;no;yes;yes;no;yes
+735;VILLA LOBOS;2010;54;male;85.3;no;no;no;yes;no
+736;DOM PEDRO II;2017;51;female;98.9;yes;no;yes;yes;yes
+737;VILLA LOBOS;2017;54;female;65.7;yes;no;yes;yes;yes
+738;SAO CAMILO;2010;24;female;66.3;yes;no;yes;yes;yes
+739;DOM BOSCO;2017;58;female;114.6;no;no;no;no;yes
+740;ANA ROSA;2014;22;female;105.8;no;yes;no;no;yes
+741;VILLA LOBOS;2015;56;female;81.1;no;no;no;no;no
+742;ANALIA FRANCO;2017;32;female;70.4;no;yes;yes;yes;yes
+743;PENHA;2015;38;male;120.3;yes;yes;no;no;yes
+744;SAO CAMILO;2016;65;male;96.4;no;no;no;yes;no
+745;BUTANTA;2010;20;male;57.2;yes;yes;no;no;no
+746;SANTA RITA;2016;12;male;40.1;yes;yes;yes;yes;yes
+747;PENHA;2015;43;female;69.2;yes;yes;no;no;yes
+748;ANALIA FRANCO;2015;38;male;65.5;yes;yes;no;no;yes
+749;VILLA LOBOS;2015;23;male;66.4;no;yes;no;no;no
+750;SANTA RITA;2016;82;male;95.5;no;no;no;yes;yes
+751;SANTA RITA;2017;4;male;15.5;no;yes;yes;yes;yes
+752;BUTANTA;2014;67;male;115.6;yes;no;no;no;yes
+753;PENHA;2016;41;female;89.6;yes;no;no;yes;yes
+754;DOM PEDRO II;2016;85;male;86.9;no;yes;no;yes;no
+755;VILLA LOBOS;2010;5;female;21.1;yes;no;no;yes;no
+756;PARAISOPOLIS;2017;46;male;67.6;yes;yes;yes;yes;yes
+757;ANALIA FRANCO;2016;63;female;130.8;no;yes;no;no;no
+758;ANALIA FRANCO;2010;25;male;91.5;no;no;no;yes;yes
+759;SAO CAMILO;2017;19;male;66.4;yes;yes;yes;yes;yes
+760;DOM PEDRO II;2010;24;male;104.6;no;no;yes;yes;no
+761;ANA ROSA;2010;16;male;42.4;no;yes;yes;yes;yes
+762;BUTANTA;2013;18;female;50.9;yes;yes;no;no;no
+763;BUTANTA;2013;39;male;60.4;yes;yes;yes;no;yes
+764;ANALIA FRANCO;2014;31;female;78.7;yes;no;no;yes;no
+765;BUTANTA;2015;60;male;87.9;no;no;no;yes;no
+766;PARAISOPOLIS;2017;32;female;65.4;yes;yes;yes;yes;yes
+767;ANALIA FRANCO;2017;5;female;17.1;yes;yes;yes;yes;yes
+768;PARAISOPOLIS;2016;35;female;84.5;no;no;no;no;no
+769;ANALIA FRANCO;2016;61;female;76.5;no;yes;no;no;yes
+770;SAO CAMILO;2010;35;male;98.4;yes;no;yes;no;no
+771;DOM BOSCO;2016;60;male;100.6;no;no;yes;no;no
+772;PENHA;2010;50;male;77.8;no;no;no;no;no
+773;VILLA LOBOS;2016;30;female;93.8;no;yes;yes;yes;yes
+774;VILLA LOBOS;2015;41;male;128.6;no;no;no;no;no
+775;DOM PEDRO II;2015;51;male;70.2;no;no;no;yes;no
+776;BUTANTA;2013;10;male;28.1;no;no;no;yes;no
+777;BUTANTA;2016;70;female;83.5;no;yes;yes;no;yes
+778;VILLA LOBOS;2016;60;female;50.5;no;no;yes;no;no
+779;SANTA RITA;2010;49;male;103.3;no;no;no;no;no
+780;VILLA LOBOS;2015;52;female;114.2;no;yes;yes;yes;yes
+781;PARAISOPOLIS;2010;49;male;77.9;no;no;no;no;no
+782;PENHA;2016;51;male;54.9;no;yes;yes;yes;yes
+783;DOM BOSCO;2017;79;male;62.3;no;yes;no;no;yes
+784;SAO CAMILO;2010;38;female;104.4;yes;yes;no;yes;yes
+785;ANALIA FRANCO;2010;0;male;4.7;yes;yes;yes;yes;yes
+786;SANTA RITA;2013;43;male;77.5;no;no;yes;no;no
+787;BUTANTA;2015;35;male;55.8;no;yes;yes;no;yes
+788;VILLA LOBOS;2016;11;male;38.2;yes;yes;no;no;no
+789;BUTANTA;2014;46;male;130.9;yes;yes;no;yes;no
+790;VILLA LOBOS;2015;47;female;133.8;yes;no;yes;yes;yes
+791;BUTANTA;2014;66;female;53.8;no;yes;yes;yes;yes
+792;ANALIA FRANCO;2016;13;male;34.8;no;no;yes;no;no
+793;SAO CAMILO;2016;57;female;100.8;no;no;no;no;no
+794;PENHA;2017;8;female;32.3;yes;yes;yes;no;yes
+795;DOM PEDRO II;2014;45;female;52.4;no;no;yes;yes;yes
+796;SAO CAMILO;2017;28;male;70.2;no;yes;no;no;no
+797;SANTA RITA;2010;75;female;65.9;no;yes;no;yes;yes
+798;SANTA RITA;2016;31;female;129.8;no;no;yes;no;no
+799;VILLA LOBOS;2016;7;female;29.6;no;no;yes;no;yes
+800;ANALIA FRANCO;2010;58;female;96.8;yes;no;no;yes;no
+801;VILLA LOBOS;2017;33;male;61.0;no;no;no;yes;no
+802;DOM PEDRO II;2015;64;male;104.0;no;no;no;no;no
+803;PENHA;2016;23;male;89.3;yes;no;yes;yes;yes
+804;ANALIA FRANCO;2017;15;male;51.1;yes;yes;yes;yes;yes
+805;BUTANTA;2010;23;female;126.7;yes;no;yes;yes;no
+806;VILLA LOBOS;2016;35;male;104.7;no;no;no;no;no
+807;VILLA LOBOS;2015;46;female;99.5;yes;no;no;yes;yes
+808;SAO CAMILO;2010;56;female;85.6;no;yes;yes;yes;yes
+809;BUTANTA;2016;65;female;113.5;no;no;no;no;no
+810;PENHA;2014;49;male;83.5;no;no;no;no;no
+811;ANALIA FRANCO;2013;53;male;69.6;yes;no;no;no;no
+812;BUTANTA;2016;64;male;63.4;no;yes;no;yes;yes
+813;BUTANTA;2017;69;male;80.0;yes;no;no;no;yes
+814;SANTA RITA;2010;26;male;55.2;no;no;yes;yes;yes
+815;ANA ROSA;2016;55;female;83.8;no;no;yes;no;no
+816;VILLA LOBOS;2010;10;female;35.8;yes;yes;no;yes;no
+817;SAO CAMILO;2016;63;male;53.0;no;no;no;no;no
+818;SAO CAMILO;2016;70;male;108.0;yes;no;yes;no;yes
+819;BUTANTA;2015;40;female;79.0;yes;no;yes;no;yes
+820;SAO CAMILO;2010;32;male;51.6;yes;no;yes;no;no
+821;SAO CAMILO;2010;22;male;63.2;no;no;no;no;yes
+822;ANA ROSA;2015;51;female;123.3;yes;no;yes;yes;no
+823;SAO CAMILO;2010;2;female;12.6;no;yes;yes;yes;yes
+824;VILLA LOBOS;2015;19;male;52.0;yes;no;no;yes;yes
+825;BUTANTA;2010;49;female;95.4;no;yes;no;yes;yes
+826;BUTANTA;2013;81;female;101.8;no;no;yes;no;no
+827;BUTANTA;2010;8;female;23.2;yes;no;yes;yes;yes
+828;BUTANTA;2015;60;male;99.9;no;no;yes;yes;yes
+829;VILLA LOBOS;2017;5;male;21.1;no;yes;yes;yes;no
+830;BUTANTA;2015;14;male;42.3;yes;yes;yes;yes;yes
+831;DOM PEDRO II;2015;58;male;56.5;no;no;yes;yes;no
+832;SANTA RITA;2017;47;male;59.1;no;no;yes;no;yes
+833;DOM PEDRO II;2016;45;male;65.8;no;no;yes;yes;yes
+834;BUTANTA;2010;70;female;112.5;yes;yes;no;no;no
+835;BUTANTA;2010;66;male;65.9;yes;no;no;no;yes
+836;ANA ROSA;2010;19;male;62.9;no;no;yes;yes;yes
+837;ANA ROSA;2017;6;male;24.2;no;no;yes;no;no
+838;SANTA RITA;2017;58;female;52.2;yes;yes;no;yes;yes
+839;BUTANTA;2016;89;female;71.1;yes;no;no;no;yes
+840;BUTANTA;2017;50;female;75.8;yes;no;yes;yes;yes
+841;VILLA LOBOS;2016;31;male;70.3;no;yes;no;yes;yes
+842;BUTANTA;2017;86;male;90.6;no;yes;no;yes;yes
+843;PARAISOPOLIS;2010;27;male;93.0;no;no;no;yes;no
+844;ANALIA FRANCO;2013;94;male;100.2;no;no;no;no;no
+845;VILLA LOBOS;2015;45;female;61.2;no;yes;no;yes;yes
+846;ANALIA FRANCO;2017;13;male;39.4;no;yes;yes;no;yes
+847;BUTANTA;2010;38;female;89.8;yes;no;no;yes;no
+848;DOM BOSCO;2013;54;male;64.7;no;yes;no;yes;yes
+849;SAO CAMILO;2010;72;male;64.9;no;no;no;no;no
+850;PARAISOPOLIS;2014;27;male;117.2;yes;yes;no;yes;yes
+851;BUTANTA;2017;28;female;72.8;no;yes;yes;yes;yes
+852;DOM PEDRO II;2013;66;male;120.7;no;no;no;no;no
+853;SAO CAMILO;2015;29;male;126.8;yes;no;yes;yes;yes
+854;SAO CAMILO;2015;41;male;91.1;yes;no;yes;yes;yes
+855;DOM BOSCO;2013;87;female;87.0;no;yes;no;yes;yes
+856;ANA ROSA;2010;39;female;87.3;no;no;yes;no;yes
+857;SANTA RITA;2010;13;male;37.9;yes;yes;yes;yes;yes
+858;ANA ROSA;2017;41;female;79.8;no;yes;no;yes;yes
+859;DOM BOSCO;2013;3;male;15.3;yes;no;yes;no;yes
+860;SANTA RITA;2017;19;female;70.1;yes;no;no;yes;yes
+861;ANALIA FRANCO;2014;82;male;115.7;yes;yes;no;yes;yes
+862;DOM BOSCO;2015;36;female;90.1;yes;yes;yes;no;yes
+863;VILLA LOBOS;2016;60;male;81.5;yes;yes;yes;no;yes
+864;PENHA;2017;5;male;17.7;yes;yes;yes;yes;yes
+865;BUTANTA;2013;14;male;40.8;yes;yes;yes;yes;yes
+866;DOM BOSCO;2010;78;female;73.3;yes;no;no;no;yes
+867;SAO CAMILO;2013;0;male;3.8;no;no;yes;no;no
+868;VILLA LOBOS;2016;57;male;92.4;no;no;yes;yes;no
+869;ANA ROSA;2017;43;male;60.6;yes;no;no;yes;yes
+870;BUTANTA;2017;90;female;84.5;no;no;no;no;no
+871;ANALIA FRANCO;2013;32;male;94.6;no;yes;no;no;yes
+872;VILLA LOBOS;2015;2;female;15.5;yes;yes;yes;no;no
+873;DOM PEDRO II;2010;33;male;58.4;yes;yes;no;no;yes
+874;SANTA RITA;2017;37;male;64.9;no;no;yes;yes;no
+875;SAO CAMILO;2016;15;female;47.2;no;no;no;yes;no
+876;VILLA LOBOS;2017;15;male;43.0;yes;yes;yes;yes;yes
+877;SAO CAMILO;2015;26;male;61.8;no;no;no;yes;no
+878;ANALIA FRANCO;2015;25;female;75.6;no;no;yes;no;no
+879;ANA ROSA;2017;61;male;75.9;no;no;yes;yes;yes
+880;VILLA LOBOS;2017;53;male;91.6;yes;no;no;no;no
+881;VILLA LOBOS;2017;8;male;25.3;yes;no;yes;yes;no
+882;BUTANTA;2017;59;male;117.9;no;yes;no;yes;yes
+883;ANALIA FRANCO;2010;20;male;67.8;yes;no;yes;no;yes
+884;BUTANTA;2014;69;male;95.7;no;no;no;no;no
+885;SAO CAMILO;2010;11;female;37.6;no;no;yes;yes;no
+886;VILLA LOBOS;2016;20;male;46.2;no;yes;no;yes;yes
+887;SAO CAMILO;2017;1;female;9.3;yes;yes;yes;yes;yes
+888;BUTANTA;2013;5;female;19.5;yes;no;no;yes;no
+889;SANTA RITA;2013;42;male;51.8;yes;no;yes;yes;yes
+890;SANTA RITA;2010;30;female;92.9;no;no;yes;yes;yes
+891;DOM PEDRO II;2010;42;female;60.3;yes;yes;yes;no;yes
+892;PENHA;2014;33;female;93.5;yes;yes;no;no;yes
+893;ANA ROSA;2016;36;male;62.1;yes;yes;no;yes;yes
+894;SAO CAMILO;2010;39;male;126.8;yes;yes;yes;no;yes
+895;PARAISOPOLIS;2015;56;female;56.3;no;no;yes;yes;yes
+896;SANTA RITA;2016;89;male;84.9;no;no;no;no;no
+897;ANALIA FRANCO;2016;42;female;123.5;yes;yes;yes;yes;yes
+898;ANA ROSA;2017;57;male;94.2;yes;no;yes;no;no
+899;BUTANTA;2013;52;female;80.0;no;no;no;no;no
+900;ANALIA FRANCO;2016;4;male;16.8;no;yes;no;no;no
+901;PARAISOPOLIS;2015;77;male;59.8;no;no;no;no;no
+902;VILLA LOBOS;2017;81;female;55.4;no;yes;yes;no;no
+903;ANALIA FRANCO;2013;92;male;52.2;no;no;no;no;no
+904;VILLA LOBOS;2017;55;male;118.0;yes;yes;yes;no;yes
+905;BUTANTA;2010;9;male;34.8;yes;yes;yes;no;yes
+906;PENHA;2013;7;male;27.6;no;no;yes;no;no
+907;SAO CAMILO;2014;43;female;60.9;yes;yes;yes;no;yes
+908;VILLA LOBOS;2013;1;male;8.8;no;no;yes;no;no
+909;VILLA LOBOS;2010;67;male;69.8;no;no;yes;no;no
+910;VILLA LOBOS;2017;24;male;64.5;yes;no;yes;yes;no
+911;ANA ROSA;2015;5;male;19.0;no;no;yes;yes;yes
+912;DOM BOSCO;2016;32;male;56.6;yes;no;yes;no;yes
+913;SANTA RITA;2016;16;male;57.2;no;no;no;no;no
+914;BUTANTA;2017;77;male;134.4;no;no;no;yes;no
+915;ANALIA FRANCO;2016;10;female;30.8;no;no;yes;no;yes
+916;DOM PEDRO II;2015;4;female;20.1;no;no;no;no;no
+917;BUTANTA;2010;61;female;120.7;no;no;no;no;no
+918;PARAISOPOLIS;2014;37;male;54.4;no;no;yes;no;yes
+919;BUTANTA;2013;45;male;105.4;no;no;yes;no;no
+920;DOM BOSCO;2017;26;male;105.6;no;yes;no;no;no
+921;VILLA LOBOS;2016;26;male;89.5;no;yes;no;no;yes
+922;VILLA LOBOS;2017;31;female;62.2;no;no;yes;no;no
+923;VILLA LOBOS;2015;13;female;37.3;yes;no;yes;no;no
+924;BUTANTA;2016;20;male;59.2;no;yes;no;yes;yes
+925;SAO CAMILO;2017;85;male;98.8;yes;yes;no;yes;yes
+926;BUTANTA;2017;5;female;18.2;no;no;no;no;no
+927;ANA ROSA;2015;66;female;100.2;no;no;no;no;no
+928;BUTANTA;2010;33;male;90.6;no;no;no;no;no
+929;DOM BOSCO;2016;26;male;54.7;yes;yes;yes;no;yes
+930;ANA ROSA;2016;9;male;28.6;no;yes;yes;no;yes
+931;VILLA LOBOS;2016;66;male;99.9;no;no;yes;yes;no
+932;VILLA LOBOS;2014;40;female;53.4;no;yes;no;no;yes
+933;VILLA LOBOS;2015;16;male;48.9;yes;no;no;no;no
+934;BUTANTA;2010;6;male;31.0;yes;yes;yes;yes;yes
+935;SAO CAMILO;2014;20;female;59.4;no;no;yes;yes;yes
+936;SANTA RITA;2017;19;female;65.3;no;no;yes;no;no
+937;BUTANTA;2014;37;female;101.8;yes;no;yes;no;yes
+938;BUTANTA;2016;83;male;98.4;no;no;no;no;yes
+939;ANA ROSA;2015;46;female;61.0;yes;yes;yes;yes;yes
+940;ANALIA FRANCO;2015;1;male;6.0;yes;yes;yes;yes;yes
+941;BUTANTA;2017;11;female;41.7;yes;yes;no;yes;yes
+942;PARAISOPOLIS;2015;85;male;79.8;no;no;yes;no;no
+943;BUTANTA;2013;60;female;62.2;yes;yes;yes;yes;yes
+944;VILLA LOBOS;2017;8;female;32.7;no;no;no;no;no
+945;SAO CAMILO;2015;33;female;104.3;yes;no;yes;no;no
+946;BUTANTA;2017;42;female;72.4;no;yes;no;no;yes
+947;SAO CAMILO;2010;31;male;61.5;yes;no;no;no;no
+948;ANALIA FRANCO;2016;44;male;91.9;no;yes;yes;no;yes
+949;DOM BOSCO;2017;39;male;60.8;no;no;no;yes;yes
+950;BUTANTA;2015;50;female;126.9;no;no;no;yes;no
+951;PARAISOPOLIS;2016;81;female;127.4;no;no;no;no;no
+952;ANA ROSA;2017;85;male;77.8;no;no;no;no;yes
+953;BUTANTA;2014;81;female;134.2;no;no;yes;no;yes
+954;PARAISOPOLIS;2017;5;female;15.5;yes;no;no;yes;no
+955;BUTANTA;2016;44;male;58.5;yes;no;no;yes;yes
+956;ANALIA FRANCO;2017;60;male;92.6;yes;no;yes;yes;no
+957;BUTANTA;2017;44;female;99.4;yes;yes;no;yes;yes
+958;SAO CAMILO;2017;67;female;112.9;no;yes;no;no;yes
+959;DOM PEDRO II;2017;19;male;41.7;yes;no;yes;yes;yes
+960;BUTANTA;2016;1;male;10.8;no;no;no;no;no
+961;DOM PEDRO II;2013;34;male;83.9;no;no;no;no;no
+962;BUTANTA;2017;2;male;12.2;no;yes;no;no;no
+963;BUTANTA;2017;24;male;118.3;no;yes;no;yes;yes
+964;ANA ROSA;2017;92;male;97.6;no;no;no;no;no
+965;BUTANTA;2015;17;female;46.2;yes;yes;no;yes;yes
+966;BUTANTA;2017;94;female;125.6;no;no;no;no;no
+967;PENHA;2013;69;female;88.4;no;no;no;yes;yes
+968;DOM PEDRO II;2013;59;male;119.7;yes;yes;yes;no;yes
+969;ANALIA FRANCO;2015;46;male;110.7;yes;no;yes;no;yes
+970;BUTANTA;2010;29;male;51.5;no;yes;no;yes;yes
+971;SAO CAMILO;2014;70;male;64.8;no;no;no;yes;no
+972;VILLA LOBOS;2014;88;female;67.8;no;no;no;no;yes
+973;PENHA;2014;5;male;17.9;no;yes;no;yes;yes
+974;SAO CAMILO;2015;53;male;90.0;yes;no;no;no;yes
+975;VILLA LOBOS;2017;24;female;94.3;no;no;yes;no;no
+976;VILLA LOBOS;2014;45;female;84.5;no;no;yes;yes;yes
+977;ANALIA FRANCO;2017;41;female;61.2;no;no;yes;no;no
+978;SAO CAMILO;2016;87;male;77.6;no;no;no;yes;yes
+979;SANTA RITA;2014;69;male;123.7;yes;yes;no;yes;yes
+980;BUTANTA;2015;15;male;46.1;yes;yes;no;no;no
+981;BUTANTA;2015;56;female;67.7;no;yes;yes;no;yes
+982;SAO CAMILO;2010;30;male;68.3;yes;no;yes;yes;no
+983;BUTANTA;2016;51;female;67.6;yes;no;yes;yes;yes
+984;BUTANTA;2016;41;male;59.1;no;no;yes;no;no
+985;BUTANTA;2010;32;female;91.8;yes;no;no;yes;no
+986;BUTANTA;2015;59;male;134.3;no;no;no;yes;no
+987;SANTA RITA;2010;9;male;30.2;yes;no;no;no;no
+988;ANA ROSA;2015;39;female;71.4;yes;no;no;yes;no
+989;BUTANTA;2014;38;male;61.5;yes;yes;no;yes;yes
+990;BUTANTA;2014;21;female;88.8;yes;no;yes;yes;yes
+991;ANALIA FRANCO;2015;13;male;42.5;no;no;yes;yes;yes
+992;BUTANTA;2010;43;female;57.9;no;yes;yes;yes;yes
+993;ANA ROSA;2010;58;female;93.8;yes;yes;yes;yes;yes
+994;VILLA LOBOS;2017;85;female;89.9;no;no;no;no;no
+995;ANA ROSA;2016;34;female;73.7;no;no;no;yes;yes
+996;VILLA LOBOS;2014;59;female;104.1;no;no;yes;no;yes
+997;SAO CAMILO;2010;16;female;50.7;yes;yes;yes;yes;yes
+998;SAO CAMILO;2010;43;female;96.5;no;yes;yes;yes;yes
+999;DOM BOSCO;2017;49;male;85.9;yes;yes;yes;yes;yes
+1000;SANTA RITA;2013;26;male;63.3;no;no;no;yes;yes
+1001;BUTANTA;2015;17;female;49.9;yes;no;no;no;no
+1002;DOM PEDRO II;2010;68;female;102.0;yes;no;yes;no;yes
+1003;BUTANTA;2015;25;male;65.2;no;yes;yes;yes;yes
+1004;SAO CAMILO;2010;8;female;32.5;no;yes;yes;no;yes
+1005;VILLA LOBOS;2015;16;male;39.8;no;no;no;no;no
+1006;VILLA LOBOS;2014;50;male;63.1;yes;no;no;no;no
+1007;BUTANTA;2016;46;female;88.2;yes;no;yes;yes;yes
+1008;PARAISOPOLIS;2017;37;female;60.3;yes;yes;yes;yes;yes
+1009;VILLA LOBOS;2010;65;male;67.7;no;yes;yes;yes;yes
+1010;PENHA;2013;79;male;65.0;no;no;yes;no;no
+1011;SANTA RITA;2016;72;male;79.1;no;no;yes;no;no
+1012;BUTANTA;2016;34;female;87.0;no;no;no;yes;no
+1013;SANTA RITA;2017;0;male;2.2;yes;no;yes;yes;yes
+1014;SAO CAMILO;2013;32;female;134.6;no;no;yes;yes;no
+1015;BUTANTA;2016;67;male;94.8;yes;yes;yes;no;yes
+1016;BUTANTA;2010;40;male;108.3;no;no;no;no;no
+1017;DOM PEDRO II;2014;41;male;80.1;no;no;yes;no;no
+1018;PARAISOPOLIS;2013;13;male;39.7;no;no;yes;no;no
+1019;BUTANTA;2017;21;male;98.3;yes;yes;no;yes;yes
+1020;SAO CAMILO;2010;53;female;86.4;yes;yes;no;yes;yes
+1021;SANTA RITA;2017;31;male;102.0;yes;no;no;yes;no
+1022;VILLA LOBOS;2013;2;female;13.1;yes;no;yes;yes;yes
+1023;VILLA LOBOS;2010;29;male;59.4;no;no;yes;yes;yes
+1024;VILLA LOBOS;2010;89;male;73.9;yes;no;yes;yes;yes
+1025;PARAISOPOLIS;2016;43;male;74.1;no;no;yes;yes;no
+1026;VILLA LOBOS;2014;59;male;75.3;yes;no;no;no;no
+1027;PARAISOPOLIS;2016;42;female;102.2;no;yes;no;yes;no
+1028;SAO CAMILO;2013;56;female;86.8;yes;yes;no;no;yes
+1029;PENHA;2013;24;male;56.9;no;no;no;yes;no
+1030;SANTA RITA;2010;100;male;100.9;yes;yes;yes;no;yes
+1031;PARAISOPOLIS;2010;60;female;63.1;yes;yes;no;no;yes
+1032;DOM PEDRO II;2010;39;female;71.0;yes;yes;no;no;yes
+1033;DOM BOSCO;2010;22;male;61.2;no;yes;no;yes;yes
+1034;ANA ROSA;2016;44;male;54.9;yes;no;yes;no;yes
+1035;SANTA RITA;2013;37;female;55.3;no;no;yes;yes;no
+1036;BUTANTA;2017;37;male;61.6;yes;yes;yes;no;yes
+1037;SAO CAMILO;2010;35;male;68.6;yes;yes;yes;yes;yes
+1038;DOM PEDRO II;2016;76;male;75.6;no;no;no;no;yes
+1039;DOM BOSCO;2013;37;male;61.1;no;no;yes;no;no
+1040;SAO CAMILO;2015;23;female;122.9;no;no;no;no;no
+1041;BUTANTA;2015;37;male;86.9;yes;no;yes;no;no
+1042;SAO CAMILO;2014;25;male;85.2;no;no;no;yes;no
+1043;VILLA LOBOS;2016;86;female;120.1;no;no;yes;no;no
+1044;VILLA LOBOS;2015;32;male;60.1;no;no;no;no;no
+1045;ANALIA FRANCO;2017;18;male;43.6;yes;no;yes;yes;yes
+1046;ANALIA FRANCO;2014;16;female;38.4;yes;yes;yes;yes;yes
+1047;PENHA;2016;56;male;98.5;no;yes;yes;yes;yes
+1048;VILLA LOBOS;2014;74;female;68.3;no;yes;yes;no;no
+1049;SANTA RITA;2015;54;male;61.6;yes;no;no;yes;yes
+1050;DOM BOSCO;2017;66;male;81.7;no;no;no;yes;no
+1051;BUTANTA;2015;74;male;56.1;no;no;yes;yes;yes
+1052;DOM BOSCO;2010;45;male;54.9;yes;yes;yes;no;yes
+1053;BUTANTA;2016;78;female;58.7;yes;no;no;no;no
+1054;ANA ROSA;2017;57;female;105.8;yes;yes;no;yes;yes
+1055;ANA ROSA;2010;46;male;100.3;yes;no;no;yes;yes
+1056;ANA ROSA;2015;0;female;5.0;no;no;no;yes;no
+1057;ANALIA FRANCO;2010;56;male;91.9;no;yes;no;yes;yes
+1058;VILLA LOBOS;2015;41;female;66.1;yes;yes;no;yes;yes
+1059;ANA ROSA;2015;16;female;47.9;yes;yes;yes;yes;yes
+1060;SAO CAMILO;2016;31;female;50.3;yes;yes;no;yes;yes
+1061;PARAISOPOLIS;2017;26;female;63.7;yes;yes;no;no;yes
+1062;ANALIA FRANCO;2010;52;male;99.3;no;yes;yes;no;yes
+1063;ANA ROSA;2016;64;male;52.6;yes;no;yes;yes;yes
+1064;VILLA LOBOS;2017;34;female;60.7;no;no;no;yes;no
+1065;BUTANTA;2013;73;female;104.1;no;no;no;no;yes
+1066;ANA ROSA;2013;41;female;70.7;no;no;no;yes;yes
+1067;SANTA RITA;2016;29;female;50.5;yes;no;no;yes;yes
+1068;SANTA RITA;2013;37;male;52.3;yes;yes;yes;yes;yes
+1069;BUTANTA;2015;61;female;63.8;no;no;no;no;no
+1070;VILLA LOBOS;2014;72;male;102.4;no;no;yes;no;no
+1071;SANTA RITA;2014;56;male;78.2;no;yes;yes;no;yes
+1072;BUTANTA;2013;48;male;64.1;yes;no;no;no;yes
+1073;ANA ROSA;2017;31;male;98.7;yes;no;yes;no;yes
+1074;SANTA RITA;2017;1;male;10.0;yes;no;yes;yes;yes
+1075;SAO CAMILO;2017;8;female;32.5;yes;no;yes;no;no
+1076;SANTA RITA;2014;35;female;130.3;no;no;no;yes;no
+1077;VILLA LOBOS;2010;3;female;17.7;yes;yes;yes;yes;yes
+1078;ANALIA FRANCO;2015;18;male;39.9;no;no;no;no;no
+1079;VILLA LOBOS;2016;80;male;92.7;yes;no;yes;yes;yes
+1080;PARAISOPOLIS;2016;6;male;24.1;yes;yes;no;yes;yes
+1081;VILLA LOBOS;2017;75;male;127.4;no;no;yes;no;no
+1082;PARAISOPOLIS;2014;85;female;80.1;yes;yes;yes;yes;yes
+1083;BUTANTA;2017;60;female;87.3;no;no;no;no;no
+1084;BUTANTA;2010;70;male;122.3;no;yes;no;no;no
+1085;ANALIA FRANCO;2017;45;male;130.0;yes;yes;yes;yes;yes
+1086;SAO CAMILO;2010;10;male;29.0;no;yes;yes;yes;yes
+1087;VILLA LOBOS;2010;18;male;60.0;yes;yes;yes;no;no
+1088;VILLA LOBOS;2010;49;male;105.8;yes;no;yes;yes;yes
+1089;DOM BOSCO;2013;87;male;84.5;no;no;yes;yes;no
+1090;BUTANTA;2013;83;male;94.0;no;no;no;no;no
+1091;SANTA RITA;2016;56;female;85.4;no;yes;no;yes;yes
+1092;SAO CAMILO;2013;25;male;61.3;yes;yes;yes;no;yes
+1093;VILLA LOBOS;2013;36;male;87.6;yes;yes;no;yes;yes
+1094;SANTA RITA;2016;16;female;55.6;no;no;no;yes;no
+1095;BUTANTA;2017;22;female;81.1;yes;no;yes;yes;yes
+1096;VILLA LOBOS;2017;41;female;64.7;yes;no;yes;yes;yes
+1097;ANALIA FRANCO;2014;52;male;96.3;no;no;yes;yes;no
+1098;ANA ROSA;2017;43;male;92.8;no;no;yes;no;no
+1099;VILLA LOBOS;2016;74;female;94.4;no;yes;yes;yes;yes
+1100;SAO CAMILO;2015;28;male;100.1;no;no;no;yes;yes
+1101;VILLA LOBOS;2014;76;male;99.2;yes;yes;yes;yes;yes
+1102;BUTANTA;2010;19;female;51.4;yes;yes;no;no;yes
+1103;SAO CAMILO;2016;90;male;87.5;no;no;no;yes;yes
+1104;DOM BOSCO;2016;2;female;15.2;yes;yes;yes;yes;yes
+1105;BUTANTA;2016;24;male;84.9;yes;no;no;yes;no
+1106;BUTANTA;2015;59;male;105.5;yes;no;yes;yes;yes
+1107;VILLA LOBOS;2010;35;male;104.9;yes;no;no;yes;yes
+1108;VILLA LOBOS;2010;23;male;90.9;no;no;no;no;no
+1109;SAO CAMILO;2016;50;male;87.7;yes;no;no;no;no
+1110;VILLA LOBOS;2013;45;male;68.8;no;no;yes;no;no
+1111;BUTANTA;2010;61;male;105.1;no;no;no;yes;yes
+1112;BUTANTA;2014;4;female;16.3;no;no;no;no;no
+1113;ANALIA FRANCO;2016;66;male;93.8;no;no;no;yes;no
+1114;SAO CAMILO;2017;79;male;58.2;no;no;no;yes;yes
+1115;PENHA;2017;84;female;57.3;no;no;no;no;no
+1116;VILLA LOBOS;2016;83;male;63.5;no;yes;no;no;yes
+1117;SANTA RITA;2015;3;female;15.4;yes;no;yes;yes;no
+1118;VILLA LOBOS;2010;57;male;66.6;no;no;no;no;no
+1119;BUTANTA;2013;33;female;125.8;no;yes;yes;no;no
+1120;BUTANTA;2010;67;female;76.0;no;no;yes;no;no
+1121;SANTA RITA;2017;9;male;30.0;yes;yes;yes;yes;yes
+1122;SAO CAMILO;2017;53;male;90.1;no;no;no;no;no
+1123;ANALIA FRANCO;2017;74;female;118.7;no;yes;yes;no;yes
+1124;ANA ROSA;2014;82;female;87.4;yes;no;yes;yes;yes
+1125;ANA ROSA;2016;45;male;119.6;yes;yes;yes;no;yes
+1126;VILLA LOBOS;2010;47;male;96.1;no;yes;yes;yes;no
+1127;VILLA LOBOS;2010;18;female;51.4;no;no;no;no;no
+1128;PARAISOPOLIS;2015;43;female;92.3;no;yes;yes;yes;yes
+1129;SANTA RITA;2013;45;male;86.4;no;no;yes;no;no
+1130;BUTANTA;2013;102;male;95.1;no;yes;yes;no;yes
+1131;VILLA LOBOS;2017;50;female;121.1;no;no;yes;yes;no
+1132;PENHA;2015;84;male;99.6;no;no;yes;no;yes
+1133;BUTANTA;2014;46;female;50.4;no;no;no;yes;no
+1134;ANA ROSA;2015;74;male;112.8;yes;yes;no;no;yes
+1135;DOM BOSCO;2017;53;male;57.6;yes;no;no;yes;yes
+1136;ANA ROSA;2013;59;male;56.8;yes;yes;yes;no;yes
+1137;ANA ROSA;2014;20;female;47.7;yes;no;no;no;yes
+1138;BUTANTA;2017;59;male;95.1;no;no;no;yes;yes
+1139;ANA ROSA;2017;44;male;77.1;yes;no;no;no;yes
+1140;VILLA LOBOS;2015;5;male;16.6;yes;yes;no;yes;yes
+1141;BUTANTA;2016;70;female;50.3;no;no;no;no;no
+1142;VILLA LOBOS;2013;65;male;54.1;no;no;no;yes;no
+1143;ANA ROSA;2010;31;female;129.4;no;no;no;no;no
+1144;ANA ROSA;2017;41;female;119.7;no;yes;yes;yes;yes
+1145;ANALIA FRANCO;2016;32;male;104.6;no;no;no;yes;no

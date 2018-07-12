@@ -1,0 +1,1026 @@
+case,unity,year,age,sex,respiratory_arrest,respiratory_insufficiency,myocardial_infarction,low_oxygen_saturation,survived
+1,ANA ROSA,2013,62,female,yes,yes,yes,yes,no
+2,PARAISOPOLIS,2017,30,female,no,yes,no,no,yes
+3,PENHA,2014,21,male,yes,no,no,no,yes
+4,BUTANTA,2014,59,female,no,yes,yes,no,no
+5,SAO CAMILO,2010,21,male,yes,yes,no,no,yes
+6,BUTANTA,2013,49,male,no,no,no,no,yes
+7,ANA ROSA,2016,27,male,no,yes,no,no,yes
+8,DOM BOSCO,2010,72,female,yes,yes,no,yes,yes
+9,VILLA LOBOS,2015,60,female,yes,yes,yes,no,yes
+10,ANALIA FRANCO,2017,37,male,yes,no,yes,no,no
+11,ANA ROSA,2016,25,male,no,yes,no,no,yes
+12,SAO CAMILO,2014,37,female,yes,no,no,no,no
+13,VILLA LOBOS,2016,14,male,yes,yes,no,yes,no
+14,PARAISOPOLIS,2017,39,female,yes,yes,yes,no,no
+15,VILLA LOBOS,2014,44,female,no,no,no,no,yes
+16,VILLA LOBOS,2014,47,male,yes,no,no,no,yes
+17,BUTANTA,2017,81,male,yes,yes,yes,yes,yes
+18,DOM BOSCO,2010,11,female,no,no,no,no,yes
+19,BUTANTA,2015,55,male,no,yes,yes,no,yes
+20,PARAISOPOLIS,2017,56,female,yes,no,yes,yes,no
+21,VILLA LOBOS,2016,39,male,no,yes,yes,yes,no
+22,VILLA LOBOS,2016,31,male,no,no,no,yes,yes
+23,VILLA LOBOS,2017,55,female,no,no,no,no,yes
+24,VILLA LOBOS,2014,16,female,no,no,no,no,yes
+25,DOM PEDRO II,2015,63,female,no,yes,no,no,yes
+26,SANTA RITA,2017,13,female,yes,no,yes,yes,yes
+27,ANALIA FRANCO,2015,19,male,no,no,yes,yes,yes
+28,ANALIA FRANCO,2013,16,female,yes,yes,no,yes,no
+29,SANTA RITA,2017,11,male,yes,no,yes,yes,no
+30,BUTANTA,2017,12,female,no,no,yes,no,no
+31,DOM BOSCO,2010,40,female,yes,yes,yes,yes,no
+32,SANTA RITA,2016,9,male,no,no,no,yes,no
+33,BUTANTA,2014,33,female,yes,no,yes,no,yes
+34,SANTA RITA,2016,82,female,yes,yes,no,no,no
+35,VILLA LOBOS,2014,82,male,yes,no,no,no,yes
+36,VILLA LOBOS,2010,46,female,yes,no,yes,yes,no
+37,DOM BOSCO,2016,20,male,yes,no,yes,no,no
+38,VILLA LOBOS,2010,29,male,no,no,no,yes,yes
+39,BUTANTA,2015,17,female,no,no,no,no,yes
+40,VILLA LOBOS,2010,65,male,yes,yes,no,no,yes
+41,ANA ROSA,2017,63,male,yes,yes,yes,yes,no
+42,BUTANTA,2013,17,male,no,yes,yes,no,yes
+43,DOM BOSCO,2014,30,female,yes,yes,yes,no,no
+44,ANA ROSA,2016,82,male,yes,yes,yes,no,no
+45,ANA ROSA,2010,52,female,no,no,yes,no,yes
+46,SANTA RITA,2017,77,female,yes,no,yes,no,yes
+47,PARAISOPOLIS,2016,22,male,no,no,yes,no,yes
+48,ANA ROSA,2010,50,male,yes,yes,yes,yes,no
+49,DOM PEDRO II,2017,49,female,yes,no,yes,no,no
+50,DOM PEDRO II,2016,26,male,no,yes,no,no,yes
+51,SAO CAMILO,2015,54,male,no,no,yes,no,yes
+52,BUTANTA,2013,15,male,yes,no,no,no,no
+53,VILLA LOBOS,2010,45,male,no,yes,no,no,yes
+54,BUTANTA,2017,40,male,yes,no,no,yes,yes
+55,SANTA RITA,2016,22,male,yes,yes,yes,no,yes
+56,SANTA RITA,2017,9,male,yes,no,yes,no,yes
+57,SAO CAMILO,2013,35,female,no,yes,yes,yes,yes
+58,DOM BOSCO,2013,48,male,yes,no,yes,no,yes
+59,VILLA LOBOS,2010,90,female,yes,no,yes,no,yes
+60,ANALIA FRANCO,2017,28,female,no,yes,yes,yes,no
+61,BUTANTA,2014,12,female,no,no,no,no,yes
+62,SANTA RITA,2010,28,female,no,yes,no,no,yes
+63,ANALIA FRANCO,2016,34,female,no,yes,yes,no,yes
+64,VILLA LOBOS,2017,27,female,yes,no,no,no,yes
+65,ANALIA FRANCO,2017,74,male,yes,yes,yes,no,yes
+66,VILLA LOBOS,2014,76,female,yes,yes,no,yes,no
+67,BUTANTA,2016,10,female,yes,no,yes,yes,no
+68,DOM PEDRO II,2013,14,female,no,yes,yes,no,no
+69,DOM PEDRO II,2015,22,female,no,no,yes,yes,yes
+70,ANALIA FRANCO,2014,14,male,no,no,yes,yes,no
+71,SANTA RITA,2010,17,male,yes,yes,no,yes,no
+72,BUTANTA,2016,47,male,no,no,yes,no,yes
+73,ANA ROSA,2014,26,male,yes,yes,yes,no,no
+74,DOM BOSCO,2017,6,male,no,no,no,yes,yes
+75,ANALIA FRANCO,2016,43,male,no,no,no,no,yes
+76,BUTANTA,2017,13,female,no,yes,yes,yes,no
+77,DOM BOSCO,2015,51,female,no,no,no,no,yes
+78,BUTANTA,2016,37,male,yes,yes,yes,yes,no
+79,ANALIA FRANCO,2013,8,male,yes,no,yes,yes,no
+80,BUTANTA,2016,41,male,no,no,no,no,yes
+81,BUTANTA,2010,6,male,no,no,no,yes,yes
+82,VILLA LOBOS,2014,59,female,no,no,no,yes,yes
+83,VILLA LOBOS,2015,83,male,yes,yes,no,yes,no
+84,ANA ROSA,2017,82,female,yes,no,yes,yes,no
+85,SANTA RITA,2010,19,male,no,yes,no,yes,yes
+86,PARAISOPOLIS,2015,45,female,no,yes,yes,yes,no
+87,ANALIA FRANCO,2015,21,male,yes,yes,yes,no,no
+88,SAO CAMILO,2010,65,male,yes,yes,yes,no,no
+89,SAO CAMILO,2017,37,male,no,no,yes,no,yes
+90,ANALIA FRANCO,2017,74,male,no,yes,yes,yes,yes
+91,BUTANTA,2010,16,male,yes,no,no,no,no
+92,ANALIA FRANCO,2014,79,female,yes,yes,no,yes,no
+93,BUTANTA,2016,77,male,yes,yes,no,no,yes
+94,BUTANTA,2017,77,female,yes,yes,yes,yes,no
+95,BUTANTA,2017,32,female,yes,yes,yes,no,yes
+96,VILLA LOBOS,2015,31,male,no,yes,no,no,yes
+97,ANA ROSA,2015,42,female,yes,no,yes,yes,no
+98,BUTANTA,2010,41,male,no,no,no,no,yes
+99,SAO CAMILO,2017,26,female,yes,no,yes,yes,no
+100,SAO CAMILO,2017,46,male,yes,yes,no,yes,no
+101,SANTA RITA,2016,75,male,no,yes,yes,no,yes
+102,BUTANTA,2016,23,male,yes,no,yes,no,yes
+103,ANA ROSA,2017,88,female,yes,yes,yes,yes,no
+104,SANTA RITA,2017,32,male,yes,yes,yes,yes,no
+105,BUTANTA,2016,62,male,no,yes,yes,yes,yes
+106,BUTANTA,2014,22,male,no,no,yes,no,yes
+107,VILLA LOBOS,2015,25,female,yes,yes,yes,yes,no
+108,BUTANTA,2017,23,female,no,yes,no,no,yes
+109,BUTANTA,2017,36,female,no,no,yes,no,yes
+110,DOM BOSCO,2017,25,male,no,no,no,yes,yes
+111,BUTANTA,2010,18,male,no,yes,yes,yes,yes
+112,BUTANTA,2016,31,male,yes,yes,yes,yes,no
+113,PENHA,2016,78,male,no,no,no,yes,yes
+114,ANA ROSA,2014,79,male,yes,yes,yes,yes,no
+115,DOM BOSCO,2010,28,female,no,yes,no,no,yes
+116,BUTANTA,2017,23,male,yes,no,no,no,no
+117,SAO CAMILO,2014,21,female,no,yes,no,yes,yes
+118,SANTA RITA,2013,80,male,yes,yes,yes,yes,no
+119,BUTANTA,2016,28,male,yes,yes,no,yes,yes
+120,SAO CAMILO,2015,66,female,yes,yes,yes,no,yes
+121,ANA ROSA,2017,59,female,no,no,yes,no,yes
+122,DOM BOSCO,2014,11,male,no,no,no,no,yes
+123,VILLA LOBOS,2016,24,male,yes,yes,yes,no,no
+124,BUTANTA,2016,20,male,yes,yes,yes,yes,no
+125,VILLA LOBOS,2016,66,male,yes,yes,yes,no,no
+126,ANALIA FRANCO,2014,22,female,yes,no,no,yes,yes
+127,SANTA RITA,2010,57,male,no,yes,yes,no,no
+128,SANTA RITA,2010,69,male,yes,no,no,yes,yes
+129,VILLA LOBOS,2015,28,male,yes,yes,yes,no,yes
+130,BUTANTA,2010,78,male,yes,yes,yes,yes,no
+131,VILLA LOBOS,2017,18,female,no,yes,no,no,yes
+132,VILLA LOBOS,2017,55,female,yes,yes,no,no,no
+133,ANALIA FRANCO,2017,28,female,no,no,no,no,yes
+134,DOM BOSCO,2016,30,male,no,yes,yes,no,yes
+135,DOM BOSCO,2013,68,female,no,no,yes,no,yes
+136,VILLA LOBOS,2015,29,female,yes,yes,yes,no,no
+137,VILLA LOBOS,2017,78,male,yes,no,yes,yes,yes
+138,SANTA RITA,2015,8,male,no,yes,no,no,yes
+139,SAO CAMILO,2016,57,male,no,yes,yes,yes,no
+140,PARAISOPOLIS,2014,90,female,yes,no,yes,yes,yes
+141,BUTANTA,2014,69,male,yes,yes,yes,no,no
+142,ANA ROSA,2010,11,female,no,yes,yes,no,no
+143,PARAISOPOLIS,2014,11,male,no,yes,no,no,yes
+144,BUTANTA,2015,18,male,yes,no,no,no,yes
+145,ANALIA FRANCO,2016,31,female,yes,no,no,no,no
+146,SANTA RITA,2016,50,male,yes,no,no,no,yes
+147,VILLA LOBOS,2015,83,male,no,yes,no,yes,yes
+148,SAO CAMILO,2010,36,male,no,yes,no,yes,no
+149,BUTANTA,2014,15,male,no,no,yes,yes,yes
+150,VILLA LOBOS,2017,51,female,no,no,no,yes,no
+151,VILLA LOBOS,2016,16,female,no,yes,yes,no,yes
+152,SANTA RITA,2013,73,male,yes,yes,yes,yes,no
+153,BUTANTA,2015,35,male,no,no,yes,no,yes
+154,PENHA,2010,16,female,yes,no,yes,no,yes
+155,SAO CAMILO,2016,18,male,yes,yes,yes,no,yes
+156,VILLA LOBOS,2013,18,male,yes,yes,yes,no,yes
+157,BUTANTA,2015,64,female,yes,yes,yes,yes,no
+158,SANTA RITA,2010,76,male,yes,yes,no,no,yes
+159,ANALIA FRANCO,2010,20,female,no,yes,no,no,yes
+160,BUTANTA,2017,36,male,no,no,no,no,yes
+161,DOM BOSCO,2010,69,female,yes,no,yes,no,yes
+162,ANALIA FRANCO,2015,74,female,yes,yes,yes,yes,no
+163,BUTANTA,2017,60,male,yes,no,no,no,yes
+164,DOM PEDRO II,2013,88,female,yes,yes,no,no,yes
+165,PENHA,2015,19,male,no,yes,no,no,yes
+166,PARAISOPOLIS,2015,10,male,no,no,no,no,yes
+167,PENHA,2017,46,male,no,no,no,no,yes
+168,ANALIA FRANCO,2017,66,female,yes,yes,yes,yes,no
+169,DOM PEDRO II,2015,72,female,yes,yes,yes,no,yes
+170,ANALIA FRANCO,2015,68,female,yes,yes,yes,no,no
+171,BUTANTA,2017,19,female,no,yes,yes,no,yes
+172,BUTANTA,2010,71,female,yes,yes,yes,yes,yes
+173,PENHA,2016,71,male,no,yes,no,yes,yes
+174,BUTANTA,2015,42,female,yes,yes,no,no,no
+175,DOM BOSCO,2014,56,female,no,no,no,yes,yes
+176,ANALIA FRANCO,2013,70,female,yes,yes,yes,yes,no
+177,BUTANTA,2017,38,male,yes,no,no,yes,no
+178,VILLA LOBOS,2016,7,male,no,no,no,no,yes
+179,BUTANTA,2010,67,female,yes,yes,yes,yes,no
+180,ANALIA FRANCO,2013,18,female,no,yes,no,no,yes
+181,SANTA RITA,2015,74,female,no,no,no,no,yes
+182,PENHA,2013,90,male,no,yes,no,yes,yes
+183,VILLA LOBOS,2017,51,male,yes,yes,no,yes,no
+184,BUTANTA,2016,26,female,no,yes,yes,no,no
+185,VILLA LOBOS,2017,43,male,yes,yes,no,yes,yes
+186,VILLA LOBOS,2013,64,male,yes,yes,yes,yes,yes
+187,DOM BOSCO,2017,20,female,yes,no,no,no,yes
+188,SAO CAMILO,2010,22,female,yes,yes,yes,yes,no
+189,ANALIA FRANCO,2016,40,female,yes,yes,yes,yes,no
+190,BUTANTA,2017,12,female,no,no,yes,no,no
+191,PARAISOPOLIS,2015,16,female,yes,yes,no,no,no
+192,SAO CAMILO,2016,90,female,yes,yes,yes,no,no
+193,BUTANTA,2016,62,female,no,no,no,yes,yes
+194,VILLA LOBOS,2017,59,female,yes,no,no,no,yes
+195,BUTANTA,2010,49,male,yes,yes,no,no,yes
+196,VILLA LOBOS,2010,21,female,yes,no,no,no,yes
+197,BUTANTA,2017,14,female,no,yes,no,no,yes
+198,DOM PEDRO II,2014,35,male,yes,yes,yes,no,no
+199,ANALIA FRANCO,2010,45,female,yes,yes,yes,yes,no
+200,PARAISOPOLIS,2013,72,female,no,yes,yes,yes,yes
+201,DOM PEDRO II,2015,35,female,yes,yes,yes,yes,no
+202,ANALIA FRANCO,2017,29,female,yes,no,yes,no,yes
+203,ANALIA FRANCO,2010,12,male,no,no,no,yes,yes
+204,BUTANTA,2016,57,male,no,yes,no,no,yes
+205,VILLA LOBOS,2015,82,male,no,yes,yes,no,yes
+206,DOM BOSCO,2015,42,female,yes,yes,yes,yes,no
+207,PARAISOPOLIS,2014,26,male,yes,yes,yes,yes,no
+208,BUTANTA,2016,76,female,yes,yes,yes,yes,no
+209,VILLA LOBOS,2014,82,male,yes,no,yes,yes,no
+210,SANTA RITA,2017,83,male,yes,yes,yes,no,yes
+211,VILLA LOBOS,2010,39,male,no,no,no,no,yes
+212,SAO CAMILO,2015,87,male,no,yes,no,yes,yes
+213,VILLA LOBOS,2017,13,male,no,yes,yes,no,yes
+214,SANTA RITA,2017,46,male,no,no,no,no,yes
+215,SAO CAMILO,2017,47,female,no,no,yes,no,yes
+216,VILLA LOBOS,2015,70,female,yes,no,yes,yes,yes
+217,SAO CAMILO,2016,57,male,yes,yes,no,no,no
+218,SAO CAMILO,2017,25,male,yes,yes,yes,yes,no
+219,SAO CAMILO,2014,56,male,yes,yes,yes,no,yes
+220,SANTA RITA,2013,50,male,yes,yes,yes,no,no
+221,SANTA RITA,2014,23,female,no,yes,yes,yes,no
+222,BUTANTA,2016,42,male,no,yes,no,yes,yes
+223,DOM PEDRO II,2015,68,female,yes,no,yes,no,yes
+224,VILLA LOBOS,2015,28,female,yes,yes,yes,yes,no
+225,PENHA,2010,8,female,no,no,no,no,yes
+226,DOM PEDRO II,2015,54,male,yes,yes,no,no,no
+227,VILLA LOBOS,2017,28,female,yes,yes,yes,yes,no
+228,ANALIA FRANCO,2015,21,male,yes,no,yes,no,yes
+229,PENHA,2013,42,male,no,no,no,no,yes
+230,BUTANTA,2010,62,male,no,no,yes,no,yes
+231,PENHA,2010,27,male,yes,yes,no,no,no
+232,DOM BOSCO,2016,52,male,yes,no,yes,no,yes
+233,ANA ROSA,2017,13,male,no,no,no,yes,yes
+234,SANTA RITA,2016,80,male,no,no,yes,yes,yes
+235,VILLA LOBOS,2017,27,female,no,no,no,no,yes
+236,PENHA,2010,80,male,yes,yes,yes,yes,no
+237,ANA ROSA,2015,49,female,no,no,yes,no,yes
+238,DOM PEDRO II,2015,84,female,no,no,yes,yes,yes
+239,SAO CAMILO,2016,66,male,yes,no,yes,no,yes
+240,ANALIA FRANCO,2010,81,male,yes,yes,yes,no,yes
+241,PARAISOPOLIS,2010,38,male,no,no,yes,no,yes
+242,SAO CAMILO,2017,6,female,no,no,no,yes,yes
+243,VILLA LOBOS,2017,88,female,yes,yes,no,yes,no
+244,ANALIA FRANCO,2017,39,female,no,no,no,no,yes
+245,PARAISOPOLIS,2010,83,male,yes,yes,yes,yes,no
+246,VILLA LOBOS,2013,39,male,no,yes,yes,no,no
+247,SAO CAMILO,2015,49,male,yes,yes,no,no,no
+248,SANTA RITA,2013,66,male,yes,yes,yes,no,yes
+249,BUTANTA,2010,11,male,no,no,no,yes,yes
+250,BUTANTA,2013,13,male,yes,yes,no,no,no
+251,ANALIA FRANCO,2010,26,female,yes,yes,no,no,no
+252,BUTANTA,2015,19,female,yes,yes,no,no,no
+253,SAO CAMILO,2015,59,male,no,no,yes,no,yes
+254,ANALIA FRANCO,2015,12,female,yes,yes,yes,yes,no
+255,SANTA RITA,2016,27,male,no,yes,no,yes,yes
+256,SANTA RITA,2010,8,female,no,no,no,no,yes
+257,BUTANTA,2016,88,male,yes,yes,no,no,yes
+258,ANALIA FRANCO,2013,42,male,no,yes,no,no,yes
+259,VILLA LOBOS,2017,81,female,no,yes,no,no,yes
+260,ANA ROSA,2014,34,female,yes,no,no,yes,no
+261,BUTANTA,2015,50,female,no,no,no,no,yes
+262,SANTA RITA,2010,21,male,no,yes,no,no,yes
+263,ANA ROSA,2016,58,male,yes,yes,no,yes,no
+264,PARAISOPOLIS,2017,25,male,yes,yes,yes,no,no
+265,DOM PEDRO II,2017,59,male,no,yes,yes,no,yes
+266,ANALIA FRANCO,2013,34,male,yes,no,yes,yes,yes
+267,ANA ROSA,2017,58,female,yes,yes,no,no,yes
+268,PARAISOPOLIS,2010,65,male,yes,yes,no,yes,no
+269,VILLA LOBOS,2016,26,male,no,yes,yes,yes,yes
+270,BUTANTA,2015,32,male,no,yes,no,yes,yes
+271,VILLA LOBOS,2016,27,female,yes,no,no,yes,no
+272,ANALIA FRANCO,2017,17,male,yes,no,no,no,yes
+273,VILLA LOBOS,2010,66,female,yes,yes,no,yes,no
+274,DOM PEDRO II,2013,22,male,yes,no,yes,yes,yes
+275,PENHA,2015,60,male,yes,no,no,no,no
+276,VILLA LOBOS,2017,28,male,yes,yes,yes,no,yes
+277,PARAISOPOLIS,2015,14,male,yes,yes,yes,no,no
+278,VILLA LOBOS,2016,42,male,no,no,no,yes,yes
+279,BUTANTA,2010,48,male,yes,no,no,yes,yes
+280,DOM PEDRO II,2015,64,female,yes,yes,no,yes,no
+281,ANA ROSA,2017,76,female,yes,yes,yes,yes,no
+282,BUTANTA,2013,15,female,yes,yes,yes,yes,no
+283,DOM PEDRO II,2015,67,female,yes,no,no,yes,yes
+284,ANA ROSA,2017,70,female,no,no,yes,yes,yes
+285,ANALIA FRANCO,2014,20,male,yes,yes,no,yes,no
+286,SAO CAMILO,2010,10,male,yes,yes,no,no,no
+287,BUTANTA,2010,87,female,yes,yes,yes,yes,no
+288,ANA ROSA,2010,28,male,no,no,no,no,yes
+289,ANALIA FRANCO,2017,57,male,no,no,no,yes,yes
+290,VILLA LOBOS,2010,49,female,no,yes,yes,no,yes
+291,BUTANTA,2017,20,male,yes,yes,yes,no,no
+292,VILLA LOBOS,2010,20,male,no,yes,yes,yes,no
+293,BUTANTA,2013,24,female,yes,no,no,no,yes
+294,VILLA LOBOS,2015,65,female,yes,yes,no,yes,no
+295,SANTA RITA,2017,38,male,no,yes,no,yes,no
+296,VILLA LOBOS,2015,6,male,yes,no,no,yes,no
+297,DOM PEDRO II,2013,78,male,yes,no,yes,no,yes
+298,DOM BOSCO,2010,41,male,no,yes,yes,yes,yes
+299,BUTANTA,2016,31,male,no,yes,yes,no,yes
+300,SANTA RITA,2010,28,male,no,no,no,no,yes
+301,PARAISOPOLIS,2017,38,male,no,yes,yes,no,yes
+302,DOM BOSCO,2010,76,male,yes,yes,no,no,no
+303,SAO CAMILO,2015,48,male,no,no,no,no,yes
+304,ANA ROSA,2017,7,male,no,no,yes,no,yes
+305,ANALIA FRANCO,2013,12,female,no,yes,no,no,yes
+306,VILLA LOBOS,2016,26,female,yes,yes,yes,yes,no
+307,DOM PEDRO II,2014,13,male,yes,yes,no,yes,no
+308,BUTANTA,2014,31,male,no,no,yes,no,yes
+309,ANA ROSA,2010,50,female,yes,yes,no,no,no
+310,VILLA LOBOS,2010,88,male,yes,no,no,no,yes
+311,SANTA RITA,2016,36,female,no,no,yes,no,yes
+312,SAO CAMILO,2010,14,male,yes,yes,no,no,no
+313,ANA ROSA,2014,26,male,no,no,no,no,yes
+314,BUTANTA,2015,55,female,no,yes,no,yes,yes
+315,ANA ROSA,2010,16,male,yes,yes,yes,yes,yes
+316,DOM PEDRO II,2017,23,female,no,no,yes,no,yes
+317,PARAISOPOLIS,2017,16,male,yes,yes,yes,yes,no
+318,VILLA LOBOS,2016,25,male,no,yes,yes,no,yes
+319,PENHA,2013,15,male,no,no,no,no,yes
+320,VILLA LOBOS,2016,24,male,yes,yes,yes,yes,no
+321,ANALIA FRANCO,2017,37,male,yes,yes,yes,no,no
+322,DOM PEDRO II,2017,86,male,yes,yes,yes,yes,no
+323,SAO CAMILO,2015,23,male,no,no,no,yes,yes
+324,BUTANTA,2016,41,female,yes,no,no,yes,no
+325,SANTA RITA,2010,60,female,no,no,yes,no,yes
+326,ANA ROSA,2014,23,female,yes,no,no,yes,no
+327,SAO CAMILO,2014,17,male,yes,yes,no,yes,no
+328,DOM BOSCO,2017,75,male,yes,yes,yes,no,no
+329,ANALIA FRANCO,2010,48,female,yes,no,yes,yes,no
+330,VILLA LOBOS,2013,15,female,yes,no,no,no,yes
+331,BUTANTA,2014,81,male,yes,no,yes,yes,no
+332,PENHA,2014,78,male,yes,yes,no,yes,no
+333,BUTANTA,2014,63,female,yes,yes,no,yes,yes
+334,SAO CAMILO,2015,61,male,yes,yes,no,yes,yes
+335,PENHA,2016,60,female,yes,no,yes,no,yes
+336,DOM BOSCO,2015,9,male,no,no,no,no,yes
+337,BUTANTA,2017,37,female,no,no,yes,yes,yes
+338,SAO CAMILO,2014,18,female,yes,yes,yes,no,no
+339,ANALIA FRANCO,2017,46,female,no,yes,yes,no,yes
+340,ANA ROSA,2017,53,male,no,no,no,no,yes
+341,BUTANTA,2010,88,male,no,yes,no,yes,yes
+342,DOM PEDRO II,2017,46,male,yes,yes,no,no,no
+343,BUTANTA,2010,61,male,yes,yes,yes,yes,no
+344,DOM PEDRO II,2015,40,male,no,no,no,no,yes
+345,VILLA LOBOS,2010,21,male,no,yes,yes,no,yes
+346,BUTANTA,2017,33,male,no,no,no,yes,yes
+347,VILLA LOBOS,2017,71,male,no,yes,yes,yes,no
+348,VILLA LOBOS,2010,40,male,no,no,yes,no,yes
+349,ANA ROSA,2015,18,male,yes,yes,no,yes,yes
+350,BUTANTA,2017,22,female,yes,yes,yes,yes,no
+351,SANTA RITA,2017,29,female,no,yes,yes,no,no
+352,SAO CAMILO,2014,87,male,no,no,yes,yes,yes
+353,SANTA RITA,2013,58,male,no,yes,no,yes,yes
+354,ANA ROSA,2016,7,male,yes,no,yes,no,yes
+355,VILLA LOBOS,2017,35,male,no,no,yes,no,yes
+356,VILLA LOBOS,2017,12,female,no,yes,yes,yes,yes
+357,PARAISOPOLIS,2010,12,female,no,yes,yes,yes,no
+358,PENHA,2016,29,female,yes,yes,no,no,no
+359,DOM BOSCO,2010,69,male,no,yes,yes,no,yes
+360,VILLA LOBOS,2017,50,male,no,yes,no,yes,yes
+361,VILLA LOBOS,2015,44,female,no,no,no,no,yes
+362,BUTANTA,2017,84,male,no,yes,yes,no,yes
+363,ANA ROSA,2017,28,male,no,no,no,yes,yes
+364,SAO CAMILO,2010,82,female,yes,yes,yes,no,no
+365,ANA ROSA,2010,26,male,yes,no,no,yes,yes
+366,BUTANTA,2016,48,female,no,no,no,yes,yes
+367,VILLA LOBOS,2016,26,male,yes,no,yes,yes,yes
+368,ANALIA FRANCO,2016,6,female,no,yes,no,yes,yes
+369,VILLA LOBOS,2014,42,female,yes,yes,yes,no,no
+370,BUTANTA,2014,87,male,yes,no,no,yes,yes
+371,SANTA RITA,2017,17,male,no,yes,yes,no,no
+372,VILLA LOBOS,2016,85,male,yes,yes,no,yes,no
+373,SAO CAMILO,2013,35,male,yes,yes,yes,yes,no
+374,BUTANTA,2010,14,male,no,yes,yes,no,no
+375,BUTANTA,2010,80,male,no,no,no,no,yes
+376,VILLA LOBOS,2013,45,male,no,yes,no,no,no
+377,BUTANTA,2014,49,male,yes,yes,no,no,no
+378,ANA ROSA,2010,55,male,no,no,no,no,yes
+379,DOM BOSCO,2014,33,male,yes,no,no,no,no
+380,PENHA,2016,15,male,no,no,no,yes,yes
+381,VILLA LOBOS,2014,87,male,yes,no,yes,yes,yes
+382,SANTA RITA,2016,71,male,yes,no,yes,yes,no
+383,ANALIA FRANCO,2017,9,male,yes,yes,no,yes,no
+384,ANALIA FRANCO,2010,29,male,yes,yes,yes,no,yes
+385,VILLA LOBOS,2010,34,female,yes,yes,no,no,no
+386,PARAISOPOLIS,2010,6,male,yes,yes,no,yes,no
+387,SANTA RITA,2015,19,male,no,no,no,yes,yes
+388,SAO CAMILO,2016,30,male,yes,yes,yes,yes,no
+389,PENHA,2017,79,male,no,no,yes,no,yes
+390,BUTANTA,2013,37,female,yes,no,yes,yes,yes
+391,PENHA,2016,37,male,no,no,yes,yes,yes
+392,VILLA LOBOS,2015,61,male,no,no,no,no,yes
+393,SANTA RITA,2013,33,female,yes,yes,yes,yes,yes
+394,VILLA LOBOS,2016,78,female,yes,yes,no,no,yes
+395,PARAISOPOLIS,2010,39,female,yes,yes,no,yes,no
+396,BUTANTA,2010,15,female,no,no,yes,no,yes
+397,ANA ROSA,2016,61,female,yes,yes,yes,yes,no
+398,BUTANTA,2014,45,male,no,yes,yes,no,no
+399,SANTA RITA,2017,74,male,no,yes,no,yes,yes
+400,BUTANTA,2014,19,female,yes,yes,yes,yes,no
+401,VILLA LOBOS,2015,23,male,no,no,no,yes,yes
+402,SANTA RITA,2015,22,female,yes,yes,no,yes,no
+403,DOM PEDRO II,2010,64,male,yes,no,no,no,yes
+404,VILLA LOBOS,2017,54,male,yes,yes,yes,no,yes
+405,SAO CAMILO,2017,19,female,no,yes,yes,yes,yes
+406,SAO CAMILO,2016,6,male,no,no,no,yes,yes
+407,SANTA RITA,2016,67,male,yes,no,yes,yes,yes
+408,SANTA RITA,2010,25,female,yes,yes,yes,no,no
+409,ANA ROSA,2017,42,female,no,yes,yes,no,no
+410,SAO CAMILO,2017,38,female,no,no,yes,yes,yes
+411,VILLA LOBOS,2010,15,female,no,no,yes,no,yes
+412,BUTANTA,2015,57,female,no,no,no,yes,yes
+413,SAO CAMILO,2013,51,female,yes,yes,yes,yes,no
+414,VILLA LOBOS,2015,29,male,yes,no,no,no,yes
+415,VILLA LOBOS,2013,8,male,no,yes,no,yes,no
+416,SAO CAMILO,2017,58,male,no,no,yes,no,yes
+417,PENHA,2014,67,male,yes,yes,yes,no,no
+418,DOM BOSCO,2016,65,male,no,yes,yes,no,yes
+419,VILLA LOBOS,2016,15,female,yes,no,yes,yes,yes
+420,BUTANTA,2010,40,male,no,no,no,no,yes
+421,SAO CAMILO,2016,47,male,no,yes,yes,yes,no
+422,SAO CAMILO,2016,68,female,yes,no,no,yes,yes
+423,BUTANTA,2016,47,female,yes,no,yes,no,yes
+424,VILLA LOBOS,2010,27,male,no,no,yes,no,yes
+425,DOM BOSCO,2010,19,female,yes,yes,yes,yes,no
+426,ANALIA FRANCO,2010,75,male,yes,yes,yes,yes,no
+427,ANA ROSA,2015,29,female,no,yes,yes,no,yes
+428,PENHA,2016,41,male,yes,yes,yes,no,yes
+429,ANALIA FRANCO,2016,11,male,yes,no,no,no,yes
+430,VILLA LOBOS,2016,73,male,yes,yes,yes,no,no
+431,PARAISOPOLIS,2016,59,male,no,no,yes,no,yes
+432,DOM PEDRO II,2014,35,male,no,no,yes,no,yes
+433,VILLA LOBOS,2010,61,male,yes,yes,yes,yes,no
+434,ANA ROSA,2014,76,female,no,no,yes,no,yes
+435,ANALIA FRANCO,2010,24,female,no,no,no,yes,yes
+436,ANA ROSA,2016,12,male,no,yes,no,yes,yes
+437,ANA ROSA,2017,23,male,no,yes,no,no,yes
+438,DOM PEDRO II,2014,58,female,no,yes,no,no,yes
+439,ANALIA FRANCO,2017,69,male,yes,yes,yes,yes,no
+440,BUTANTA,2013,44,female,no,yes,yes,yes,yes
+441,VILLA LOBOS,2017,47,female,yes,yes,no,yes,no
+442,BUTANTA,2014,18,female,yes,yes,yes,no,no
+443,VILLA LOBOS,2015,85,male,yes,yes,yes,yes,no
+444,DOM PEDRO II,2013,68,female,yes,yes,no,yes,yes
+445,PENHA,2017,25,male,yes,yes,yes,yes,no
+446,BUTANTA,2010,54,female,yes,yes,no,yes,no
+447,BUTANTA,2010,12,male,no,no,no,no,yes
+448,SANTA RITA,2017,83,female,yes,yes,yes,no,yes
+449,ANA ROSA,2017,29,female,yes,no,no,yes,yes
+450,PENHA,2010,63,male,yes,yes,yes,no,yes
+451,ANA ROSA,2017,9,male,no,no,no,no,yes
+452,PARAISOPOLIS,2016,14,male,no,yes,no,yes,yes
+453,SAO CAMILO,2016,14,male,no,no,no,yes,yes
+454,VILLA LOBOS,2016,12,male,yes,no,no,no,yes
+455,VILLA LOBOS,2017,15,female,no,no,no,no,yes
+456,VILLA LOBOS,2010,10,male,no,no,no,no,yes
+457,DOM PEDRO II,2015,44,female,yes,yes,yes,yes,no
+458,VILLA LOBOS,2010,44,female,yes,no,no,no,no
+459,SAO CAMILO,2010,13,male,yes,no,yes,no,no
+460,SANTA RITA,2014,72,male,yes,yes,yes,yes,no
+461,BUTANTA,2010,83,female,yes,yes,yes,yes,no
+462,VILLA LOBOS,2015,43,male,yes,yes,no,yes,no
+463,BUTANTA,2016,26,male,no,no,yes,no,no
+464,BUTANTA,2013,18,female,no,yes,yes,no,yes
+465,SANTA RITA,2016,13,male,no,no,yes,no,yes
+466,ANALIA FRANCO,2015,81,male,yes,yes,yes,yes,yes
+467,VILLA LOBOS,2015,32,male,no,no,no,no,yes
+468,PARAISOPOLIS,2015,25,male,no,no,yes,yes,yes
+469,SAO CAMILO,2010,52,male,no,yes,yes,no,no
+470,VILLA LOBOS,2010,72,female,yes,no,no,yes,yes
+471,SAO CAMILO,2016,28,female,no,no,no,no,yes
+472,BUTANTA,2016,49,female,no,yes,no,no,no
+473,PARAISOPOLIS,2013,12,male,no,no,no,yes,yes
+474,ANA ROSA,2017,22,female,yes,no,no,yes,no
+475,VILLA LOBOS,2017,19,female,no,yes,no,yes,no
+476,SAO CAMILO,2015,19,male,yes,yes,yes,no,yes
+477,PARAISOPOLIS,2016,60,male,yes,yes,yes,yes,no
+478,SANTA RITA,2015,8,male,no,no,no,yes,yes
+479,ANA ROSA,2013,56,male,yes,yes,yes,no,no
+480,BUTANTA,2017,27,male,no,yes,yes,yes,no
+481,SANTA RITA,2010,55,male,no,no,yes,no,yes
+482,BUTANTA,2016,14,female,no,yes,no,no,yes
+483,SAO CAMILO,2017,49,male,yes,yes,yes,yes,no
+484,VILLA LOBOS,2016,54,female,yes,no,yes,no,yes
+485,SAO CAMILO,2016,58,female,no,yes,no,yes,yes
+486,SAO CAMILO,2013,86,male,no,no,no,no,yes
+487,DOM PEDRO II,2014,24,female,no,yes,no,no,no
+488,ANALIA FRANCO,2010,70,male,yes,yes,yes,yes,no
+489,BUTANTA,2010,87,male,no,yes,no,no,yes
+490,SANTA RITA,2010,53,male,no,no,no,no,yes
+491,SAO CAMILO,2016,64,male,yes,yes,no,yes,no
+492,ANA ROSA,2017,22,male,no,yes,no,no,yes
+493,VILLA LOBOS,2010,83,male,yes,yes,no,no,yes
+494,BUTANTA,2015,23,female,yes,no,no,yes,no
+495,VILLA LOBOS,2014,88,male,yes,yes,no,no,yes
+496,SAO CAMILO,2013,7,male,yes,yes,yes,yes,no
+497,VILLA LOBOS,2015,27,male,yes,yes,no,no,no
+498,SANTA RITA,2017,52,male,no,no,yes,yes,yes
+499,ANA ROSA,2017,44,male,yes,no,no,yes,yes
+500,BUTANTA,2010,39,male,no,no,yes,no,yes
+501,ANA ROSA,2016,50,female,yes,yes,yes,no,yes
+502,ANALIA FRANCO,2017,32,male,yes,yes,yes,yes,no
+503,ANALIA FRANCO,2015,15,male,yes,no,no,yes,no
+504,BUTANTA,2013,48,female,no,yes,yes,no,no
+505,SAO CAMILO,2015,89,female,yes,yes,yes,no,yes
+506,PENHA,2010,10,male,yes,no,no,no,yes
+507,ANA ROSA,2015,59,female,yes,no,no,no,yes
+508,PARAISOPOLIS,2013,11,female,no,yes,yes,no,no
+509,SANTA RITA,2010,77,female,yes,yes,yes,no,no
+510,ANA ROSA,2015,13,male,yes,no,yes,no,yes
+511,BUTANTA,2017,26,male,yes,no,yes,no,yes
+512,VILLA LOBOS,2014,48,male,yes,no,yes,yes,no
+513,VILLA LOBOS,2013,56,female,no,yes,yes,no,yes
+514,VILLA LOBOS,2016,40,male,yes,yes,no,yes,no
+515,BUTANTA,2017,66,male,yes,no,no,yes,yes
+516,VILLA LOBOS,2013,60,male,no,yes,yes,no,no
+517,SAO CAMILO,2014,78,female,no,yes,yes,yes,yes
+518,ANALIA FRANCO,2014,21,female,no,no,yes,yes,yes
+519,BUTANTA,2016,15,female,no,no,no,yes,yes
+520,SANTA RITA,2017,19,female,no,no,no,yes,yes
+521,VILLA LOBOS,2010,13,female,yes,yes,yes,no,no
+522,BUTANTA,2010,57,male,no,no,yes,yes,yes
+523,BUTANTA,2010,72,male,no,yes,yes,no,yes
+524,SAO CAMILO,2016,66,male,yes,yes,no,no,yes
+525,SANTA RITA,2010,63,male,yes,yes,yes,yes,no
+526,PARAISOPOLIS,2013,54,female,yes,no,yes,yes,no
+527,VILLA LOBOS,2017,24,male,no,yes,yes,yes,yes
+528,DOM BOSCO,2015,17,female,yes,yes,no,no,no
+529,VILLA LOBOS,2013,24,female,yes,no,no,yes,yes
+530,VILLA LOBOS,2017,67,male,yes,yes,yes,no,yes
+531,VILLA LOBOS,2015,8,male,no,no,no,no,yes
+532,SANTA RITA,2010,13,male,yes,yes,yes,no,no
+533,SAO CAMILO,2015,65,male,no,no,yes,no,yes
+534,SANTA RITA,2013,29,female,yes,yes,yes,no,no
+535,ANALIA FRANCO,2015,60,female,yes,no,no,yes,yes
+536,DOM PEDRO II,2017,51,female,no,no,no,yes,yes
+537,DOM PEDRO II,2017,22,female,yes,no,no,no,yes
+538,VILLA LOBOS,2015,22,male,no,no,no,no,yes
+539,BUTANTA,2017,8,female,no,no,no,yes,yes
+540,VILLA LOBOS,2010,12,female,no,no,no,yes,no
+541,SANTA RITA,2013,20,female,yes,yes,yes,yes,no
+542,PENHA,2017,37,female,no,yes,no,no,no
+543,SANTA RITA,2013,61,female,yes,yes,no,no,yes
+544,PENHA,2017,25,male,yes,yes,no,no,no
+545,ANALIA FRANCO,2015,50,male,no,no,yes,yes,yes
+546,ANA ROSA,2010,38,male,no,no,no,no,yes
+547,SAO CAMILO,2016,69,male,yes,yes,yes,yes,no
+548,BUTANTA,2017,80,male,yes,no,no,no,yes
+549,VILLA LOBOS,2017,15,female,no,no,no,no,no
+550,ANALIA FRANCO,2017,41,male,no,yes,yes,no,yes
+551,VILLA LOBOS,2017,57,female,yes,no,no,yes,no
+552,ANALIA FRANCO,2010,35,female,yes,yes,yes,yes,yes
+553,ANALIA FRANCO,2016,20,female,no,yes,no,no,no
+554,VILLA LOBOS,2010,76,female,yes,yes,no,yes,no
+555,VILLA LOBOS,2015,19,male,yes,yes,no,no,no
+556,ANALIA FRANCO,2010,17,male,no,yes,yes,yes,yes
+557,ANA ROSA,2017,22,male,no,no,no,yes,yes
+558,SAO CAMILO,2017,33,male,yes,yes,no,no,yes
+559,SAO CAMILO,2010,11,female,yes,no,no,no,yes
+560,BUTANTA,2017,6,male,yes,yes,yes,no,no
+561,DOM PEDRO II,2010,20,male,no,yes,no,no,yes
+562,SANTA RITA,2016,11,male,yes,yes,no,yes,no
+563,PARAISOPOLIS,2010,46,male,no,yes,yes,yes,no
+564,BUTANTA,2017,90,female,yes,yes,no,no,yes
+565,SANTA RITA,2015,50,female,yes,yes,yes,yes,no
+566,SANTA RITA,2017,52,female,no,yes,no,yes,no
+567,ANALIA FRANCO,2015,44,male,yes,yes,no,yes,yes
+568,BUTANTA,2016,20,male,no,yes,no,no,yes
+569,BUTANTA,2017,54,male,yes,yes,yes,yes,no
+570,VILLA LOBOS,2016,51,female,no,yes,yes,yes,yes
+571,ANA ROSA,2013,23,female,no,yes,no,no,yes
+572,VILLA LOBOS,2013,20,male,no,yes,yes,no,yes
+573,ANA ROSA,2010,37,female,yes,no,yes,no,yes
+574,BUTANTA,2017,30,male,yes,no,yes,yes,no
+575,DOM BOSCO,2017,33,female,no,no,no,no,yes
+576,BUTANTA,2013,86,male,no,yes,no,no,no
+577,ANA ROSA,2016,65,male,yes,yes,no,yes,yes
+578,BUTANTA,2016,81,male,yes,yes,no,no,yes
+579,DOM PEDRO II,2016,17,male,yes,no,no,no,no
+580,BUTANTA,2010,63,male,yes,yes,no,yes,no
+581,DOM BOSCO,2010,26,male,yes,yes,no,yes,no
+582,VILLA LOBOS,2013,63,male,yes,yes,yes,yes,no
+583,BUTANTA,2010,28,female,no,no,no,no,yes
+584,VILLA LOBOS,2016,16,female,no,no,no,no,yes
+585,ANA ROSA,2014,45,female,no,yes,no,yes,no
+586,DOM BOSCO,2010,11,female,no,no,no,no,yes
+587,VILLA LOBOS,2010,16,male,no,no,no,yes,yes
+588,BUTANTA,2017,10,female,no,no,no,no,yes
+589,VILLA LOBOS,2016,30,male,yes,yes,no,no,yes
+590,VILLA LOBOS,2017,54,female,yes,yes,yes,yes,no
+591,PARAISOPOLIS,2016,17,female,no,yes,yes,no,yes
+592,VILLA LOBOS,2016,75,male,yes,yes,yes,yes,no
+593,BUTANTA,2016,81,male,no,no,no,no,yes
+594,SAO CAMILO,2017,77,male,yes,no,no,yes,yes
+595,VILLA LOBOS,2016,10,female,yes,no,yes,no,yes
+596,VILLA LOBOS,2010,50,male,yes,yes,no,no,no
+597,SANTA RITA,2017,9,male,no,no,no,yes,yes
+598,BUTANTA,2010,56,male,yes,yes,yes,no,no
+599,BUTANTA,2015,76,male,yes,yes,yes,yes,no
+600,VILLA LOBOS,2016,20,female,no,no,yes,yes,yes
+601,BUTANTA,2014,51,female,no,no,yes,yes,yes
+602,DOM PEDRO II,2015,27,male,yes,yes,no,no,no
+603,PARAISOPOLIS,2017,78,female,yes,yes,yes,no,no
+604,ANA ROSA,2013,22,female,no,no,no,no,yes
+605,ANA ROSA,2014,14,female,no,no,yes,no,no
+606,VILLA LOBOS,2013,86,male,yes,yes,yes,yes,yes
+607,VILLA LOBOS,2016,22,male,no,yes,yes,yes,yes
+608,VILLA LOBOS,2015,43,male,yes,yes,yes,yes,no
+609,DOM PEDRO II,2016,44,male,no,no,yes,no,yes
+610,BUTANTA,2014,11,male,yes,yes,no,no,no
+611,BUTANTA,2014,54,female,yes,no,no,yes,no
+612,SANTA RITA,2015,34,male,yes,yes,no,yes,no
+613,ANA ROSA,2014,71,female,yes,yes,yes,no,no
+614,ANA ROSA,2010,24,female,yes,no,yes,no,yes
+615,VILLA LOBOS,2015,66,female,yes,yes,yes,no,yes
+616,ANALIA FRANCO,2016,49,male,yes,yes,yes,yes,no
+617,VILLA LOBOS,2013,34,male,no,yes,no,no,yes
+618,SAO CAMILO,2017,15,female,no,no,no,no,yes
+619,SANTA RITA,2014,16,male,yes,no,yes,no,yes
+620,ANALIA FRANCO,2016,60,male,yes,no,no,no,no
+621,ANALIA FRANCO,2010,64,female,yes,no,no,yes,yes
+622,PARAISOPOLIS,2017,79,female,yes,yes,yes,no,no
+623,VILLA LOBOS,2015,19,female,no,no,no,no,yes
+624,SAO CAMILO,2016,87,female,no,yes,no,yes,yes
+625,BUTANTA,2015,41,male,yes,yes,yes,yes,no
+626,BUTANTA,2014,34,male,no,no,no,no,yes
+627,ANA ROSA,2017,58,female,yes,yes,no,yes,no
+628,SAO CAMILO,2010,28,male,no,no,no,yes,yes
+629,DOM PEDRO II,2017,35,female,no,yes,no,no,no
+630,SAO CAMILO,2010,83,male,yes,yes,no,yes,yes
+631,DOM PEDRO II,2014,75,male,yes,yes,yes,yes,yes
+632,ANA ROSA,2016,18,male,no,yes,yes,no,yes
+633,SANTA RITA,2010,54,male,yes,no,yes,no,yes
+634,ANALIA FRANCO,2014,73,female,yes,yes,yes,no,no
+635,SAO CAMILO,2016,88,male,yes,no,no,yes,yes
+636,DOM PEDRO II,2016,12,male,yes,yes,no,yes,no
+637,VILLA LOBOS,2017,16,male,yes,yes,no,no,no
+638,BUTANTA,2017,13,male,no,yes,no,no,yes
+639,DOM PEDRO II,2010,24,female,no,no,yes,no,yes
+640,VILLA LOBOS,2010,77,male,yes,yes,yes,no,yes
+641,BUTANTA,2015,68,female,yes,yes,yes,yes,no
+642,VILLA LOBOS,2013,67,female,no,yes,yes,yes,no
+643,ANALIA FRANCO,2010,28,female,yes,no,no,no,yes
+644,VILLA LOBOS,2015,48,female,yes,no,no,yes,yes
+645,ANA ROSA,2017,47,female,yes,yes,no,yes,no
+646,PARAISOPOLIS,2014,88,male,no,no,yes,no,yes
+647,VILLA LOBOS,2017,65,male,yes,yes,no,no,yes
+648,SAO CAMILO,2017,22,male,no,no,no,yes,yes
+649,BUTANTA,2010,45,male,yes,yes,no,yes,no
+650,PENHA,2016,65,male,yes,no,yes,yes,yes
+651,SANTA RITA,2016,52,male,yes,no,yes,no,yes
+652,ANALIA FRANCO,2010,59,male,no,yes,no,yes,no
+653,BUTANTA,2017,17,female,no,yes,no,no,yes
+654,DOM PEDRO II,2017,52,male,no,no,yes,no,yes
+655,SANTA RITA,2017,48,female,yes,yes,yes,yes,no
+656,ANA ROSA,2015,25,female,no,yes,yes,no,yes
+657,ANALIA FRANCO,2017,77,male,yes,yes,no,yes,yes
+658,ANALIA FRANCO,2014,57,male,yes,yes,yes,yes,no
+659,PARAISOPOLIS,2015,82,female,yes,yes,no,no,no
+660,VILLA LOBOS,2017,28,male,yes,no,no,yes,no
+661,BUTANTA,2017,48,female,yes,yes,yes,no,no
+662,VILLA LOBOS,2015,28,male,yes,yes,yes,no,no
+663,PARAISOPOLIS,2017,42,male,yes,no,no,yes,yes
+664,DOM PEDRO II,2013,87,male,yes,yes,yes,no,yes
+665,BUTANTA,2017,41,male,no,yes,no,no,yes
+666,SAO CAMILO,2014,28,female,yes,yes,yes,no,no
+667,PARAISOPOLIS,2017,18,male,no,no,yes,yes,yes
+668,SANTA RITA,2013,81,male,yes,yes,yes,yes,no
+669,VILLA LOBOS,2010,17,male,no,yes,no,no,yes
+670,VILLA LOBOS,2016,41,female,yes,yes,no,no,no
+671,ANALIA FRANCO,2010,19,female,yes,no,yes,no,no
+672,BUTANTA,2017,9,male,no,no,no,yes,yes
+673,SAO CAMILO,2016,12,male,yes,yes,no,no,yes
+674,VILLA LOBOS,2015,35,male,no,no,no,no,yes
+675,BUTANTA,2015,80,female,yes,yes,yes,yes,no
+676,BUTANTA,2016,48,male,no,yes,no,no,yes
+677,SANTA RITA,2016,43,male,yes,yes,yes,no,yes
+678,VILLA LOBOS,2017,65,male,yes,yes,yes,yes,no
+679,SAO CAMILO,2016,83,male,no,yes,no,no,yes
+680,PARAISOPOLIS,2015,33,male,yes,yes,yes,no,no
+681,PENHA,2010,40,female,yes,no,yes,yes,yes
+682,PARAISOPOLIS,2010,13,female,no,no,no,no,yes
+683,SANTA RITA,2013,85,male,no,yes,no,no,yes
+684,DOM BOSCO,2016,52,female,no,no,yes,no,yes
+685,VILLA LOBOS,2013,55,male,no,no,no,no,yes
+686,BUTANTA,2010,19,female,no,yes,yes,yes,no
+687,BUTANTA,2013,20,female,no,no,no,no,yes
+688,VILLA LOBOS,2017,44,female,no,no,no,yes,yes
+689,DOM BOSCO,2010,55,male,no,no,no,no,yes
+690,VILLA LOBOS,2017,18,female,yes,yes,no,no,yes
+691,SAO CAMILO,2013,25,male,yes,yes,yes,no,no
+692,VILLA LOBOS,2017,73,male,yes,yes,yes,yes,no
+693,SAO CAMILO,2017,42,male,yes,no,yes,no,yes
+694,PENHA,2016,47,male,yes,yes,yes,no,no
+695,ANA ROSA,2016,81,male,yes,no,no,no,yes
+696,BUTANTA,2013,44,male,yes,yes,no,yes,no
+697,SAO CAMILO,2013,6,female,yes,no,no,no,yes
+698,ANALIA FRANCO,2010,13,male,yes,no,yes,yes,no
+699,VILLA LOBOS,2017,15,female,no,no,no,no,yes
+700,ANA ROSA,2017,28,male,no,no,yes,no,yes
+701,VILLA LOBOS,2010,56,female,no,yes,yes,no,yes
+702,VILLA LOBOS,2010,48,male,yes,no,no,yes,yes
+703,ANA ROSA,2017,57,female,yes,yes,yes,yes,no
+704,VILLA LOBOS,2014,13,male,no,yes,yes,yes,no
+705,VILLA LOBOS,2010,19,female,no,yes,yes,no,yes
+706,BUTANTA,2010,19,female,yes,yes,yes,yes,no
+707,ANALIA FRANCO,2017,13,male,yes,yes,no,no,no
+708,ANA ROSA,2016,59,male,yes,yes,yes,no,no
+709,BUTANTA,2017,44,female,yes,yes,no,no,no
+710,ANALIA FRANCO,2017,43,female,no,yes,no,yes,yes
+711,ANA ROSA,2016,15,male,yes,no,yes,yes,no
+712,SANTA RITA,2016,11,male,no,yes,no,no,yes
+713,VILLA LOBOS,2017,72,male,yes,no,yes,yes,yes
+714,ANALIA FRANCO,2016,31,female,no,yes,yes,no,no
+715,PENHA,2016,82,female,no,yes,yes,yes,no
+716,PARAISOPOLIS,2017,15,female,no,no,no,no,yes
+717,VILLA LOBOS,2014,86,female,yes,yes,yes,no,no
+718,PENHA,2010,52,male,no,no,no,no,yes
+719,BUTANTA,2014,52,female,yes,yes,no,yes,no
+720,BUTANTA,2016,85,male,yes,yes,yes,yes,no
+721,VILLA LOBOS,2017,31,female,yes,yes,yes,no,no
+722,ANALIA FRANCO,2017,61,male,yes,yes,yes,no,no
+723,BUTANTA,2010,10,female,no,yes,no,no,yes
+724,VILLA LOBOS,2010,44,male,yes,yes,no,yes,yes
+725,PARAISOPOLIS,2014,38,female,yes,no,no,yes,yes
+726,PARAISOPOLIS,2017,6,male,yes,yes,no,yes,no
+727,VILLA LOBOS,2016,45,female,no,yes,no,yes,yes
+728,BUTANTA,2017,79,male,yes,yes,yes,yes,no
+729,PARAISOPOLIS,2010,13,male,yes,yes,no,no,no
+730,VILLA LOBOS,2014,13,male,no,no,yes,no,yes
+731,BUTANTA,2017,79,male,yes,yes,no,yes,yes
+732,SAO CAMILO,2014,20,male,no,yes,no,no,no
+733,BUTANTA,2010,43,male,no,yes,yes,yes,no
+734,VILLA LOBOS,2017,8,male,no,yes,no,no,no
+735,BUTANTA,2017,29,male,no,yes,no,no,yes
+736,VILLA LOBOS,2010,53,female,no,no,no,no,yes
+737,SANTA RITA,2010,50,male,yes,yes,yes,no,no
+738,VILLA LOBOS,2017,16,female,yes,yes,yes,yes,no
+739,BUTANTA,2016,59,male,no,no,no,no,yes
+740,PENHA,2015,14,male,no,no,no,no,yes
+741,DOM BOSCO,2014,53,male,no,no,no,no,yes
+742,PENHA,2010,26,female,no,yes,no,yes,yes
+743,ANALIA FRANCO,2017,51,female,yes,yes,yes,yes,no
+744,VILLA LOBOS,2016,11,male,no,no,no,no,yes
+745,VILLA LOBOS,2013,10,male,no,no,no,yes,no
+746,VILLA LOBOS,2015,44,male,no,no,yes,no,yes
+747,PENHA,2017,24,male,no,yes,no,no,yes
+748,PARAISOPOLIS,2016,27,male,yes,no,no,no,yes
+749,ANALIA FRANCO,2015,65,male,yes,yes,no,no,no
+750,DOM BOSCO,2016,49,male,yes,yes,yes,yes,no
+751,PARAISOPOLIS,2013,72,female,yes,yes,no,no,yes
+752,BUTANTA,2015,80,male,no,yes,yes,no,yes
+753,BUTANTA,2016,15,male,yes,no,no,yes,yes
+754,ANALIA FRANCO,2015,57,female,yes,no,no,no,yes
+755,SANTA RITA,2015,58,male,no,yes,yes,yes,yes
+756,VILLA LOBOS,2017,6,male,yes,no,yes,yes,no
+757,VILLA LOBOS,2010,67,male,yes,yes,yes,yes,no
+758,VILLA LOBOS,2010,60,female,yes,yes,yes,no,no
+759,DOM PEDRO II,2014,25,female,yes,no,no,no,no
+760,DOM PEDRO II,2015,58,male,yes,no,no,no,yes
+761,DOM BOSCO,2013,39,male,no,yes,yes,yes,yes
+762,DOM BOSCO,2016,55,female,yes,yes,no,yes,no
+763,DOM BOSCO,2016,48,male,no,no,yes,no,yes
+764,ANALIA FRANCO,2017,32,male,no,yes,yes,no,no
+765,ANALIA FRANCO,2010,80,female,no,no,no,no,yes
+766,VILLA LOBOS,2014,55,female,yes,no,no,no,no
+767,SAO CAMILO,2015,73,female,yes,yes,yes,yes,yes
+768,PENHA,2016,20,male,no,no,no,no,yes
+769,SAO CAMILO,2013,88,female,yes,yes,yes,no,no
+770,BUTANTA,2010,65,male,yes,yes,yes,yes,no
+771,SAO CAMILO,2014,20,female,yes,no,yes,yes,no
+772,BUTANTA,2010,77,female,yes,yes,yes,no,yes
+773,BUTANTA,2017,20,female,no,no,no,no,yes
+774,VILLA LOBOS,2016,71,female,yes,yes,no,no,yes
+775,VILLA LOBOS,2014,34,female,yes,yes,no,yes,no
+776,DOM BOSCO,2015,36,female,no,no,yes,yes,yes
+777,DOM BOSCO,2017,13,male,no,no,yes,no,yes
+778,BUTANTA,2010,25,male,yes,no,no,no,yes
+779,SANTA RITA,2015,52,male,no,yes,no,no,yes
+780,VILLA LOBOS,2014,24,female,yes,no,yes,no,no
+781,BUTANTA,2015,30,female,no,yes,yes,no,no
+782,BUTANTA,2017,48,female,no,no,no,yes,yes
+783,SANTA RITA,2014,75,male,no,yes,yes,yes,no
+784,ANALIA FRANCO,2016,18,male,yes,no,yes,yes,no
+785,VILLA LOBOS,2010,75,male,yes,yes,no,no,yes
+786,PARAISOPOLIS,2017,18,female,yes,yes,yes,no,no
+787,ANA ROSA,2017,36,male,no,no,yes,no,yes
+788,SANTA RITA,2015,57,male,no,yes,yes,yes,no
+789,DOM PEDRO II,2010,14,female,no,yes,no,yes,yes
+790,SAO CAMILO,2010,66,male,yes,no,no,yes,yes
+791,VILLA LOBOS,2014,61,male,yes,yes,no,yes,yes
+792,PARAISOPOLIS,2013,18,female,no,yes,no,no,yes
+793,SANTA RITA,2015,23,male,yes,no,yes,yes,yes
+794,BUTANTA,2017,49,female,no,yes,no,no,yes
+795,BUTANTA,2015,54,male,no,yes,no,no,yes
+796,BUTANTA,2016,13,male,no,yes,no,yes,yes
+797,VILLA LOBOS,2015,47,male,no,no,yes,no,yes
+798,DOM PEDRO II,2010,87,male,yes,yes,no,yes,yes
+799,DOM PEDRO II,2010,29,female,yes,no,no,no,yes
+800,ANA ROSA,2015,65,male,yes,yes,yes,yes,no
+801,ANALIA FRANCO,2010,30,male,yes,yes,yes,yes,no
+802,VILLA LOBOS,2010,7,male,yes,yes,yes,no,no
+803,VILLA LOBOS,2015,45,female,yes,yes,yes,no,yes
+804,SAO CAMILO,2016,18,male,no,no,yes,no,yes
+805,BUTANTA,2010,30,male,no,yes,yes,yes,no
+806,SAO CAMILO,2016,25,male,no,no,no,no,yes
+807,SANTA RITA,2016,34,female,yes,yes,no,no,yes
+808,SAO CAMILO,2014,88,female,yes,no,yes,yes,no
+809,BUTANTA,2017,40,female,yes,yes,yes,yes,no
+810,ANALIA FRANCO,2017,24,male,no,yes,yes,no,yes
+811,VILLA LOBOS,2014,46,male,yes,yes,no,no,no
+812,SANTA RITA,2016,11,female,no,no,no,yes,yes
+813,SAO CAMILO,2016,14,female,yes,no,yes,yes,no
+814,BUTANTA,2014,24,male,yes,yes,yes,no,no
+815,BUTANTA,2017,51,male,yes,yes,yes,yes,no
+816,BUTANTA,2016,20,male,yes,yes,no,yes,no
+817,DOM PEDRO II,2017,88,male,yes,yes,yes,no,no
+818,ANA ROSA,2017,7,female,yes,no,no,no,yes
+819,PARAISOPOLIS,2013,18,male,yes,yes,no,no,no
+820,DOM PEDRO II,2014,89,female,no,yes,no,yes,yes
+821,BUTANTA,2017,47,male,no,no,no,yes,yes
+822,BUTANTA,2013,16,male,yes,yes,no,no,no
+823,ANALIA FRANCO,2016,72,female,yes,no,no,no,no
+824,VILLA LOBOS,2016,26,female,yes,yes,no,no,no
+825,BUTANTA,2015,16,male,no,yes,yes,yes,yes
+826,PENHA,2016,29,male,yes,yes,yes,yes,no
+827,BUTANTA,2010,35,female,no,no,yes,no,yes
+828,DOM BOSCO,2017,60,female,no,no,yes,no,yes
+829,VILLA LOBOS,2015,48,male,no,no,no,yes,yes
+830,VILLA LOBOS,2015,18,male,yes,yes,yes,yes,no
+831,BUTANTA,2010,51,female,no,no,no,yes,yes
+832,PARAISOPOLIS,2015,49,male,yes,yes,yes,no,no
+833,VILLA LOBOS,2015,17,female,yes,no,yes,yes,no
+834,ANALIA FRANCO,2010,52,male,no,yes,yes,no,yes
+835,BUTANTA,2014,6,male,yes,yes,no,no,no
+836,SAO CAMILO,2013,24,female,yes,yes,no,no,no
+837,ANA ROSA,2015,24,male,no,yes,no,no,yes
+838,SANTA RITA,2017,28,male,yes,yes,no,no,no
+839,VILLA LOBOS,2013,56,male,no,no,no,yes,yes
+840,SAO CAMILO,2013,71,male,yes,yes,yes,yes,yes
+841,BUTANTA,2016,89,male,yes,yes,yes,yes,no
+842,VILLA LOBOS,2015,38,male,yes,yes,no,yes,no
+843,VILLA LOBOS,2016,61,male,yes,yes,no,yes,yes
+844,ANA ROSA,2014,51,male,yes,yes,no,no,no
+845,DOM BOSCO,2010,6,female,yes,yes,yes,yes,no
+846,SANTA RITA,2015,9,male,yes,no,yes,no,no
+847,SAO CAMILO,2015,57,male,no,no,no,no,yes
+848,PENHA,2010,39,female,no,no,no,no,yes
+849,SAO CAMILO,2013,18,male,no,yes,yes,yes,yes
+850,BUTANTA,2015,46,female,no,yes,no,yes,yes
+851,DOM PEDRO II,2017,32,male,yes,yes,yes,yes,no
+852,ANALIA FRANCO,2010,27,male,no,no,no,yes,yes
+853,VILLA LOBOS,2016,23,male,yes,no,yes,yes,yes
+854,PENHA,2015,38,female,no,no,no,no,yes
+855,PENHA,2010,39,male,yes,yes,yes,no,yes
+856,BUTANTA,2016,80,male,yes,yes,no,yes,no
+857,BUTANTA,2010,50,female,no,no,yes,yes,yes
+858,SAO CAMILO,2010,40,female,no,yes,yes,no,yes
+859,VILLA LOBOS,2017,74,female,yes,yes,no,yes,no
+860,BUTANTA,2017,39,male,no,yes,yes,yes,yes
+861,DOM BOSCO,2010,6,female,yes,no,no,yes,yes
+862,ANA ROSA,2010,30,male,yes,yes,no,no,no
+863,BUTANTA,2016,16,male,yes,yes,yes,yes,no
+864,SAO CAMILO,2015,76,male,yes,no,no,yes,yes
+865,ANA ROSA,2017,11,male,no,no,no,no,yes
+866,SAO CAMILO,2016,71,male,no,no,yes,no,yes
+867,BUTANTA,2016,16,male,yes,no,no,yes,yes
+868,SAO CAMILO,2017,45,male,yes,yes,yes,yes,yes
+869,BUTANTA,2017,26,male,yes,no,no,yes,yes
+870,BUTANTA,2016,42,female,yes,yes,no,yes,yes
+871,ANALIA FRANCO,2017,58,male,yes,yes,no,yes,no
+872,VILLA LOBOS,2015,53,male,yes,yes,yes,no,no
+873,ANA ROSA,2017,42,female,yes,yes,yes,no,no
+874,DOM BOSCO,2010,44,male,yes,yes,no,no,no
+875,SAO CAMILO,2017,48,male,yes,yes,yes,yes,no
+876,BUTANTA,2013,30,female,yes,no,yes,yes,no
+877,BUTANTA,2010,38,male,no,yes,yes,yes,yes
+878,BUTANTA,2016,21,male,no,no,no,yes,yes
+879,BUTANTA,2010,17,female,no,no,yes,no,yes
+880,VILLA LOBOS,2015,17,male,yes,yes,no,no,yes
+881,PARAISOPOLIS,2010,63,male,no,no,yes,no,yes
+882,VILLA LOBOS,2015,11,male,yes,no,no,no,yes
+883,VILLA LOBOS,2017,9,male,no,yes,no,yes,no
+884,VILLA LOBOS,2013,36,male,yes,no,yes,no,yes
+885,VILLA LOBOS,2015,25,female,yes,yes,no,no,no
+886,ANA ROSA,2017,50,female,no,no,yes,no,yes
+887,BUTANTA,2014,10,male,no,no,no,no,yes
+888,VILLA LOBOS,2013,31,female,yes,yes,no,yes,no
+889,PENHA,2014,9,female,no,no,yes,yes,no
+890,SANTA RITA,2010,55,male,yes,yes,yes,yes,no
+891,PENHA,2010,39,male,no,yes,yes,yes,no
+892,BUTANTA,2016,29,male,yes,yes,no,yes,no
+893,PENHA,2017,80,male,yes,no,no,yes,yes
+894,PENHA,2010,89,female,yes,yes,yes,no,no
+895,DOM BOSCO,2015,12,female,no,yes,yes,no,no
+896,VILLA LOBOS,2013,16,female,yes,yes,yes,yes,no
+897,SAO CAMILO,2015,27,female,no,no,yes,no,yes
+898,SANTA RITA,2014,60,female,no,yes,yes,no,yes
+899,VILLA LOBOS,2016,72,male,yes,no,no,yes,yes
+900,BUTANTA,2016,38,male,no,no,no,no,yes
+901,SANTA RITA,2014,39,female,no,no,yes,yes,no
+902,BUTANTA,2015,20,male,yes,yes,yes,no,no
+903,DOM PEDRO II,2010,80,male,yes,yes,no,yes,yes
+904,VILLA LOBOS,2010,21,female,yes,no,no,yes,yes
+905,ANA ROSA,2010,18,female,no,yes,yes,no,yes
+906,VILLA LOBOS,2016,15,male,no,no,no,no,yes
+907,BUTANTA,2015,39,female,yes,yes,yes,yes,no
+908,VILLA LOBOS,2014,35,male,no,yes,yes,no,yes
+909,PARAISOPOLIS,2010,40,female,yes,no,no,yes,no
+910,BUTANTA,2016,15,male,yes,yes,yes,yes,no
+911,BUTANTA,2010,54,female,no,yes,yes,no,no
+912,BUTANTA,2013,15,female,no,no,yes,no,yes
+913,SANTA RITA,2010,54,male,yes,yes,no,no,no
+914,SAO CAMILO,2010,24,male,yes,yes,no,no,no
+915,PENHA,2010,30,male,yes,yes,no,yes,no
+916,SAO CAMILO,2015,10,male,no,no,yes,no,yes
+917,ANALIA FRANCO,2017,31,female,no,no,no,yes,yes
+918,VILLA LOBOS,2016,77,female,no,yes,no,yes,yes
+919,BUTANTA,2010,40,male,yes,yes,no,yes,no
+920,VILLA LOBOS,2010,13,female,no,yes,no,no,yes
+921,VILLA LOBOS,2010,21,female,yes,yes,yes,yes,no
+922,ANA ROSA,2015,12,female,no,no,no,no,yes
+923,VILLA LOBOS,2014,87,female,yes,yes,no,no,no
+924,PENHA,2016,71,female,yes,yes,no,yes,no
+925,SANTA RITA,2017,37,female,yes,yes,yes,no,no
+926,BUTANTA,2017,16,female,no,no,no,no,yes
+927,BUTANTA,2017,72,male,no,yes,no,yes,yes
+928,ANA ROSA,2016,46,female,yes,no,yes,no,no
+929,SAO CAMILO,2010,26,male,yes,yes,yes,yes,no
+930,ANA ROSA,2017,18,male,yes,yes,no,no,no
+931,VILLA LOBOS,2013,29,female,no,yes,yes,yes,yes
+932,DOM BOSCO,2016,39,female,no,no,no,no,yes
+933,SAO CAMILO,2013,6,male,yes,no,no,no,yes
+934,VILLA LOBOS,2013,31,male,yes,yes,yes,yes,no
+935,BUTANTA,2016,53,female,yes,yes,yes,yes,no
+936,BUTANTA,2015,90,female,yes,yes,yes,yes,no
+937,ANA ROSA,2010,52,female,yes,yes,yes,yes,no
+938,BUTANTA,2014,87,female,yes,yes,yes,no,no
+939,SANTA RITA,2014,84,female,no,yes,yes,yes,yes
+940,BUTANTA,2017,80,male,yes,yes,no,no,yes
+941,PENHA,2010,68,female,no,no,no,no,yes
+942,BUTANTA,2015,55,male,no,no,no,no,yes
+943,ANALIA FRANCO,2015,15,male,no,no,no,yes,yes
+944,SANTA RITA,2010,51,male,no,no,yes,no,yes
+945,BUTANTA,2013,42,male,yes,yes,no,no,no
+946,BUTANTA,2016,42,male,yes,yes,yes,no,no
+947,DOM BOSCO,2017,27,male,yes,yes,yes,no,yes
+948,SANTA RITA,2017,19,female,no,yes,yes,no,no
+949,VILLA LOBOS,2010,65,male,yes,yes,yes,no,yes
+950,ANALIA FRANCO,2013,17,male,no,no,no,yes,yes
+951,ANALIA FRANCO,2016,77,female,yes,no,yes,no,yes
+952,BUTANTA,2016,70,male,yes,yes,yes,yes,yes
+953,ANA ROSA,2017,57,male,yes,yes,no,no,no
+954,PARAISOPOLIS,2014,46,female,no,no,no,yes,yes
+955,PARAISOPOLIS,2014,7,female,no,no,no,yes,yes
+956,ANA ROSA,2010,52,female,yes,yes,yes,yes,no
+957,BUTANTA,2016,23,female,yes,no,yes,yes,no
+958,PARAISOPOLIS,2017,78,female,no,yes,yes,yes,yes
+959,BUTANTA,2015,30,female,yes,yes,yes,no,no
+960,PARAISOPOLIS,2017,13,male,no,no,yes,yes,yes
+961,PENHA,2010,41,female,yes,yes,yes,yes,no
+962,PARAISOPOLIS,2014,28,male,no,no,yes,yes,yes
+963,BUTANTA,2017,20,male,yes,yes,yes,no,no
+964,VILLA LOBOS,2017,84,male,yes,yes,no,yes,yes
+965,SAO CAMILO,2013,82,male,yes,no,yes,yes,yes
+966,BUTANTA,2013,21,male,yes,no,yes,no,yes
+967,BUTANTA,2016,58,female,yes,no,yes,no,no
+968,SAO CAMILO,2010,18,female,no,yes,yes,no,no
+969,VILLA LOBOS,2017,40,male,yes,no,no,no,yes
+970,ANA ROSA,2016,30,male,no,yes,no,yes,yes
+971,PENHA,2014,50,female,yes,yes,no,yes,no
+972,VILLA LOBOS,2017,19,female,yes,yes,no,no,no
+973,VILLA LOBOS,2015,90,male,yes,no,no,no,yes
+974,VILLA LOBOS,2010,78,male,yes,yes,no,no,yes
+975,ANA ROSA,2017,21,female,no,yes,yes,no,yes
+976,SAO CAMILO,2015,12,male,yes,yes,yes,no,no
+977,BUTANTA,2015,22,male,no,yes,no,no,yes
+978,VILLA LOBOS,2017,11,male,no,no,no,yes,no
+979,ANALIA FRANCO,2017,53,male,no,yes,no,no,yes
+980,PARAISOPOLIS,2016,49,female,no,no,yes,no,yes
+981,ANA ROSA,2016,51,male,yes,yes,yes,yes,no
+982,DOM BOSCO,2017,11,female,no,yes,yes,no,no
+983,SANTA RITA,2017,78,male,no,yes,yes,yes,no
+984,PENHA,2014,55,female,yes,yes,yes,yes,no
+985,BUTANTA,2010,49,male,yes,yes,no,yes,yes
+986,DOM BOSCO,2017,20,female,yes,no,yes,no,yes
+987,BUTANTA,2015,10,male,no,no,yes,no,yes
+988,ANA ROSA,2016,21,female,no,no,no,no,yes
+989,BUTANTA,2014,45,male,no,yes,no,no,yes
+990,BUTANTA,2010,52,female,yes,yes,yes,no,yes
+991,DOM BOSCO,2010,73,female,yes,yes,yes,no,no
+992,SANTA RITA,2017,27,male,no,yes,yes,yes,no
+993,SANTA RITA,2013,56,female,yes,yes,yes,no,no
+994,PARAISOPOLIS,2010,30,male,yes,no,no,yes,yes
+995,VILLA LOBOS,2016,40,female,no,yes,no,yes,no
+996,VILLA LOBOS,2017,8,male,no,no,yes,yes,no
+997,SANTA RITA,2013,14,male,no,yes,no,no,yes
+998,BUTANTA,2010,29,male,yes,yes,yes,yes,no
+999,ANA ROSA,2017,51,male,yes,yes,yes,no,no
+1000,DOM PEDRO II,2015,79,male,yes,no,yes,yes,yes
+1001,ANA ROSA,2017,78,male,no,yes,yes,yes,yes
+1002,SANTA RITA,2014,14,female,yes,yes,yes,no,no
+1003,BUTANTA,2014,60,male,no,no,yes,no,yes
+1004,SAO CAMILO,2010,43,female,yes,yes,yes,yes,no
+1005,SAO CAMILO,2010,44,male,no,no,no,no,yes
+1006,DOM BOSCO,2010,57,male,yes,yes,no,yes,yes
+1007,PARAISOPOLIS,2016,41,male,no,no,yes,no,yes
+1008,BUTANTA,2015,47,female,no,no,yes,no,yes
+1009,DOM BOSCO,2017,45,male,no,no,no,no,yes
+1010,BUTANTA,2016,13,male,no,no,no,no,yes
+1011,PARAISOPOLIS,2016,85,female,yes,yes,yes,yes,no
+1012,SAO CAMILO,2010,43,female,no,no,yes,yes,yes
+1013,BUTANTA,2015,6,female,yes,no,no,no,yes
+1014,VILLA LOBOS,2013,30,female,yes,yes,yes,no,no
+1015,DOM PEDRO II,2010,10,male,no,no,yes,yes,no
+1016,VILLA LOBOS,2014,11,female,yes,yes,yes,yes,no
+1017,VILLA LOBOS,2017,30,male,yes,yes,no,no,no
+1018,SAO CAMILO,2013,16,female,yes,no,no,no,yes
+1019,BUTANTA,2010,47,male,no,no,no,yes,yes
+1020,VILLA LOBOS,2013,32,male,yes,no,yes,no,no
+1021,PENHA,2015,42,male,yes,yes,yes,no,no
+1022,BUTANTA,2016,63,female,yes,yes,yes,yes,no
+1023,SAO CAMILO,2017,46,male,yes,yes,yes,yes,yes
+1024,PARAISOPOLIS,2010,37,male,no,no,no,no,yes
+1025,SANTA RITA,2010,78,female,yes,yes,yes,no,yes

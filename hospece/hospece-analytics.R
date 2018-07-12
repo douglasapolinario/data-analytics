@@ -8,7 +8,7 @@ test <- read.csv("test.csv", stringsAsFactors=FALSE)
 
 proporcao_genero_obito <- function() {
   #proporcao por geral
-  proporcao_geral <- prop.table(table(train$survived))
+  proporcao_geral <- prop.table(table(train$sex))
   
   #proporcao por geral genero
   proporcao_geral_sex <- prop.table(table(train$sex, train$survived))
@@ -51,11 +51,35 @@ predict_data <- function() {
                method = "class")
   fancyRpartPlot(fit)
   
-  Prediction <- predict(fit, test, type="class")
-  submit <- data.frame(Pacient = test$case, survived = Prediction)
-  write.csv(submit, file = "prediction.csv", row.names = FALSE)
+  prediction <- predict(fit, test, type="class")
+  df_predict <- data.frame(Pacient = test$case, survived = prediction)
+  write.csv(df_predict, file = "prediction.csv", row.names = FALSE)
 }
 
 proporcao_genero_obito()
 quantidade_crianca()
 predict_data()
+
+train$survived[train$survived == "no"] <- 0
+train$survived[train$survived == "yes"] <- 1
+head(train)
+
+train <- read.csv("train.csv", stringsAsFactors=FALSE)
+test <- read.csv("test.csv", stringsAsFactors=FALSE)
+
+head(train)
+str(train)
+subtrain <- subset(train, select = c("age", "sex", "respiratory_arrest", "survived"))
+fit <- rpart(survived ~ age + sex 
+             + respiratory_arrest ,
+             data=subtrain,
+             method="class")
+
+fancyRpartPlot(fit)
+
+prediction <- predict(fit, test, type="class")
+df_predict <- data.frame(Pacient = test$case, survived = prediction)
+write.csv(df_predict, file = "prediction.csv", row.names = FALSE)
+
+summary(prediction)
+prop.table(table(prediction))

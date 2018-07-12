@@ -1,0 +1,114 @@
+case,unity,year,age,sex,respiratory_arrest,respiratory_insufficiency,myocardial_infarction,low_oxygen_saturation
+1,BUTANTA,2018,14,female,yes,no,no,no
+2,SANTA RITA,2018,55,female,yes,no,yes,yes
+3,SANTA RITA,2018,76,male,yes,yes,no,yes
+4,ANALIA FRANCO,2018,80,male,yes,yes,yes,yes
+5,ANALIA FRANCO,2018,22,male,yes,yes,no,yes
+6,ANALIA FRANCO,2018,39,male,yes,no,no,no
+7,PARAISOPOLIS,2018,60,male,no,yes,yes,yes
+8,ANALIA FRANCO,2018,26,male,yes,yes,yes,no
+9,BUTANTA,2018,89,male,no,yes,yes,yes
+10,DOM BOSCO,2018,55,female,no,yes,yes,yes
+11,DOM PEDRO II,2018,8,male,yes,yes,yes,yes
+12,SAO CAMILO,2018,40,male,no,yes,yes,yes
+13,VILLA LOBOS,2018,37,female,yes,yes,yes,no
+14,ANALIA FRANCO,2018,28,female,yes,no,yes,yes
+15,DOM BOSCO,2018,15,male,no,yes,yes,yes
+16,SANTA RITA,2018,11,male,yes,yes,yes,yes
+17,VILLA LOBOS,2018,19,male,no,no,no,yes
+18,VILLA LOBOS,2018,40,male,yes,no,yes,yes
+19,ANALIA FRANCO,2018,60,male,yes,yes,yes,no
+20,SANTA RITA,2018,61,male,yes,yes,yes,yes
+21,PENHA,2018,40,female,no,no,no,no
+22,ANALIA FRANCO,2018,45,female,yes,yes,yes,no
+23,ANA ROSA,2018,45,male,no,no,yes,no
+24,VILLA LOBOS,2018,31,male,no,no,no,no
+25,DOM PEDRO II,2018,57,female,yes,no,no,no
+26,SAO CAMILO,2018,15,male,no,no,no,no
+27,SAO CAMILO,2018,78,female,yes,yes,yes,yes
+28,ANALIA FRANCO,2018,13,male,no,yes,no,no
+29,VILLA LOBOS,2018,15,male,no,yes,no,no
+30,DOM PEDRO II,2018,90,male,no,yes,no,no
+31,ANA ROSA,2018,51,female,yes,yes,yes,yes
+32,ANALIA FRANCO,2018,18,female,no,yes,no,yes
+33,ANALIA FRANCO,2018,60,female,yes,yes,no,yes
+34,DOM PEDRO II,2018,25,male,no,yes,yes,no
+35,SANTA RITA,2018,45,male,no,no,yes,no
+36,PARAISOPOLIS,2018,84,male,yes,no,no,yes
+37,ANALIA FRANCO,2018,42,male,yes,yes,no,no
+38,VILLA LOBOS,2018,28,male,yes,no,yes,yes
+39,BUTANTA,2018,78,female,yes,yes,yes,yes
+40,VILLA LOBOS,2018,83,male,yes,yes,yes,no
+41,SAO CAMILO,2018,46,female,no,yes,no,no
+42,DOM PEDRO II,2018,24,male,yes,no,no,no
+43,ANALIA FRANCO,2018,72,male,no,yes,yes,no
+44,VILLA LOBOS,2018,57,male,yes,yes,yes,no
+45,SANTA RITA,2018,29,female,no,no,no,no
+46,VILLA LOBOS,2018,45,male,no,no,no,no
+47,ANALIA FRANCO,2018,36,male,no,yes,yes,yes
+48,BUTANTA,2018,15,female,no,no,no,no
+49,SANTA RITA,2018,23,female,no,yes,no,no
+50,SANTA RITA,2018,78,male,no,no,no,yes
+51,BUTANTA,2018,32,male,yes,yes,yes,yes
+52,BUTANTA,2018,46,female,no,no,no,yes
+53,DOM BOSCO,2018,89,male,yes,yes,yes,yes
+54,DOM PEDRO II,2018,44,male,yes,yes,yes,no
+55,SAO CAMILO,2018,55,female,no,no,no,yes
+56,VILLA LOBOS,2018,86,female,no,no,yes,no
+57,SANTA RITA,2018,85,female,yes,yes,no,no
+58,VILLA LOBOS,2018,57,female,yes,yes,yes,no
+59,SANTA RITA,2018,44,male,no,yes,no,no
+60,DOM PEDRO II,2018,48,male,no,no,no,no
+61,BUTANTA,2018,71,male,no,yes,yes,no
+62,DOM PEDRO II,2018,58,female,yes,no,no,no
+63,PARAISOPOLIS,2018,23,female,yes,yes,no,yes
+64,VILLA LOBOS,2018,81,female,no,no,yes,yes
+65,SAO CAMILO,2018,22,male,no,no,no,yes
+66,BUTANTA,2018,80,female,no,yes,no,no
+67,BUTANTA,2018,61,male,yes,yes,yes,no
+68,PENHA,2018,25,female,no,no,no,yes
+69,VILLA LOBOS,2018,43,female,yes,yes,yes,no
+70,SAO CAMILO,2018,53,male,yes,yes,yes,yes
+71,VILLA LOBOS,2018,47,female,no,no,yes,yes
+72,BUTANTA,2018,37,male,no,yes,no,yes
+73,PENHA,2018,71,female,yes,yes,yes,yes
+74,DOM BOSCO,2018,47,male,yes,yes,yes,yes
+75,SANTA RITA,2018,49,female,no,yes,no,no
+76,VILLA LOBOS,2018,88,female,no,yes,yes,yes
+77,SAO CAMILO,2018,14,male,no,no,no,no
+78,SAO CAMILO,2018,19,female,yes,yes,yes,no
+79,VILLA LOBOS,2018,53,male,yes,yes,no,yes
+80,ANALIA FRANCO,2018,46,male,yes,no,yes,no
+81,ANALIA FRANCO,2018,61,female,yes,yes,yes,no
+82,VILLA LOBOS,2018,13,male,no,no,no,no
+83,SANTA RITA,2018,17,male,no,yes,yes,no
+84,VILLA LOBOS,2018,78,female,yes,no,yes,yes
+85,VILLA LOBOS,2018,70,male,yes,yes,yes,no
+86,VILLA LOBOS,2018,46,female,yes,yes,yes,yes
+87,ANA ROSA,2018,49,male,yes,yes,yes,yes
+88,BUTANTA,2018,23,male,yes,yes,no,yes
+89,VILLA LOBOS,2018,32,male,yes,yes,yes,yes
+90,SAO CAMILO,2018,16,male,no,no,yes,yes
+91,VILLA LOBOS,2018,23,male,no,yes,yes,no
+92,PARAISOPOLIS,2018,75,male,yes,yes,yes,yes
+93,BUTANTA,2018,90,male,yes,no,no,no
+94,ANA ROSA,2018,87,female,no,yes,yes,yes
+95,VILLA LOBOS,2018,18,male,no,yes,yes,no
+96,PENHA,2018,83,male,yes,no,no,no
+97,ANALIA FRANCO,2018,20,male,no,no,yes,no
+98,BUTANTA,2018,20,male,yes,yes,no,no
+99,PENHA,2018,9,male,no,no,no,no
+100,VILLA LOBOS,2018,49,female,no,no,no,no
+101,SAO CAMILO,2018,11,male,yes,yes,yes,yes
+102,VILLA LOBOS,2018,11,female,no,no,no,no
+103,VILLA LOBOS,2018,79,male,no,yes,yes,yes
+104,SANTA RITA,2018,30,male,no,no,no,yes
+105,PENHA,2018,59,male,yes,yes,yes,yes
+106,VILLA LOBOS,2018,77,male,yes,yes,yes,yes
+107,VILLA LOBOS,2018,73,female,yes,no,no,no
+108,SANTA RITA,2018,86,male,yes,no,no,yes
+109,VILLA LOBOS,2018,22,male,no,no,no,yes
+110,BUTANTA,2018,50,male,yes,yes,yes,no
+111,BUTANTA,2018,7,male,yes,yes,yes,yes
+112,BUTANTA,2018,6,male,yes,no,yes,yes
+113,VILLA LOBOS,2018,55,male,yes,yes,no,no

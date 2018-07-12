@@ -1,0 +1,100 @@
+case,unity,age,sex,respiratory_arrest,respiratory_insufficiency,myocardial_infarction,low_oxygen_saturation,died
+1,VILLA LOBOS,25,male,no,no,no,yes,no
+2,ANA ROSA,28,female,yes,no,yes,no,no
+3,PENHA,31,male,yes,yes,yes,no,yes
+4,DOM BOSCO,34,female,yes,no,no,no,yes
+5,VILLA LOBOS,37,female,no,yes,no,yes,yes
+6,DOM PEDRO II,40,male,no,yes,no,yes,yes
+7,ANALIA FRANCO,43,male,yes,yes,no,yes,yes
+8,SANTA RITA,46,male,yes,no,yes,yes,no
+9,VILLA LOBOS,49,female,yes,yes,no,yes,yes
+10,SAO CAMILO,52,male,no,no,yes,yes,yes
+11,PARAISOPOLIS,20,male,no,no,no,yes,yes
+12,ANALIA FRANCO,23,male,yes,no,no,yes,yes
+13,ANA ROSA,26,male,no,yes,yes,yes,yes
+14,ANA ROSA,29,female,yes,no,no,yes,yes
+15,BUTANTA,32,male,no,no,no,yes,no
+16,SANTA RITA,35,female,yes,yes,yes,no,yes
+17,VILLA LOBOS,38,female,yes,no,yes,yes,yes
+18,PARAISOPOLIS,41,male,no,yes,yes,yes,yes
+19,VILLA LOBOS,44,male,no,yes,yes,no,yes
+20,SANTA RITA,47,male,yes,no,yes,no,yes
+21,VILLA LOBOS,50,male,no,no,yes,no,no
+22,ANA ROSA,53,female,no,no,no,no,no
+23,VILLA LOBOS,56,female,no,no,no,no,no
+24,PENHA,61,female,yes,no,no,yes,yes
+25,PENHA,64,male,no,no,no,no,yes
+26,SANTA RITA,67,female,yes,yes,no,no,yes
+27,ANA ROSA,70,male,yes,yes,no,yes,yes
+28,VILLA LOBOS,73,male,yes,no,no,yes,yes
+29,ANALIA FRANCO,76,female,no,no,yes,no,yes
+30,DOM PEDRO II,79,male,no,yes,no,yes,no
+31,ANA ROSA,80,female,no,no,no,yes,no
+32,PENHA,80,female,no,no,no,no,no
+33,VILLA LOBOS,80,female,no,no,no,no,no
+34,PENHA,80,male,no,no,yes,yes,no
+35,PARAISOPOLIS,80,female,no,no,yes,yes,yes
+36,ANALIA FRANCO,80,male,yes,yes,yes,yes,yes
+37,ANA ROSA,80,male,no,no,no,no,no
+38,PENHA,80,male,no,yes,no,yes,yes
+39,ANA ROSA,80,female,no,no,yes,no,yes
+40,VILLA LOBOS,20,female,yes,no,yes,yes,yes
+41,SANTA RITA,28,male,yes,yes,yes,no,yes
+42,VILLA LOBOS,36,male,no,yes,no,no,yes
+43,ANALIA FRANCO,44,male,yes,no,no,yes,no
+44,BUTANTA,52,female,no,yes,yes,no,yes
+45,SAO CAMILO,60,female,yes,no,yes,yes,yes
+46,ANALIA FRANCO,68,female,no,no,yes,yes,no
+47,DOM BOSCO,76,female,yes,no,yes,no,yes
+48,VILLA LOBOS,84,female,yes,yes,yes,no,yes
+49,BUTANTA,20,female,no,no,yes,yes,no
+50,SANTA RITA,26,male,yes,yes,no,yes,yes
+51,BUTANTA,32,male,no,yes,yes,yes,yes
+52,PARAISOPOLIS,38,female,no,no,no,yes,no
+53,SAO CAMILO,44,female,no,no,no,no,yes
+54,PENHA,50,male,no,yes,yes,yes,yes
+55,ANA ROSA,56,female,no,no,no,yes,no
+56,PENHA,62,male,yes,yes,yes,yes,yes
+57,VILLA LOBOS,32,male,no,no,no,yes,no
+58,VILLA LOBOS,33,female,no,no,yes,no,no
+59,SAO CAMILO,34,male,no,no,yes,yes,no
+60,SANTA RITA,35,female,yes,no,yes,no,no
+61,PARAISOPOLIS,36,female,no,no,no,yes,no
+62,SAO CAMILO,37,female,no,no,yes,yes,no
+63,VILLA LOBOS,38,female,yes,yes,no,yes,no
+64,BUTANTA,39,male,no,no,no,no,no
+65,ANA ROSA,40,male,no,yes,yes,no,no
+66,ANALIA FRANCO,41,male,no,yes,yes,yes,yes
+67,VILLA LOBOS,42,male,yes,yes,yes,no,yes
+68,SANTA RITA,43,male,yes,no,yes,yes,yes
+69,DOM BOSCO,44,male,yes,yes,no,no,yes
+70,ANALIA FRANCO,45,female,yes,no,no,yes,yes
+71,VILLA LOBOS,46,female,no,no,no,no,no
+72,BUTANTA,47,female,yes,yes,yes,no,yes
+73,VILLA LOBOS,48,male,no,no,yes,no,no
+74,ANALIA FRANCO,49,male,no,no,no,yes,no
+75,ANA ROSA,50,male,no,no,yes,no,no
+76,VILLA LOBOS,51,male,no,no,no,no,no
+77,ANA ROSA,52,female,yes,yes,yes,yes,yes
+78,BUTANTA,53,female,no,yes,yes,yes,yes
+79,DOM PEDRO II,54,female,yes,yes,no,yes,yes
+80,VILLA LOBOS,55,male,yes,no,no,no,yes
+81,SANTA RITA,56,female,no,no,no,yes,yes
+82,VILLA LOBOS,57,female,no,no,no,yes,yes
+83,ANALIA FRANCO,44,female,yes,yes,no,yes,yes
+84,BUTANTA,46,male,no,no,yes,yes,yes
+85,BUTANTA,48,male,yes,yes,yes,no,yes
+86,SANTA RITA,50,male,no,no,no,yes,no
+87,BUTANTA,52,male,no,yes,yes,yes,yes
+88,DOM PEDRO II,54,male,yes,no,no,no,yes
+89,BUTANTA,56,female,no,no,yes,no,no
+90,PARAISOPOLIS,58,male,no,no,no,yes,yes
+91,SANTA RITA,60,male,no,yes,yes,yes,yes
+92,BUTANTA,62,female,no,no,no,yes,no
+93,ANA ROSA,64,male,no,yes,yes,no,no
+94,VILLA LOBOS,66,female,no,no,no,no,no
+95,SANTA RITA,68,female,no,no,yes,yes,yes
+96,VILLA LOBOS,20,female,no,no,no,no,no
+97,BUTANTA,22,male,yes,no,yes,yes,yes
+98,VILLA LOBOS,31,female,yes,yes,no,yes,yes
+99,ANA ROSA,32,female,no,no,yes,no,yes
